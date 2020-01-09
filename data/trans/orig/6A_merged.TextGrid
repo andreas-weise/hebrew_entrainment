@@ -1,0 +1,5252 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 563.7146666666666 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "manual" 
+        xmin = 0 
+        xmax = 555.837 
+        intervals: size = 521 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.438 
+            text = "none" 
+        intervals [2]:
+            xmin = 1.438 
+            xmax = 1.788 
+            text = "slave" 
+        intervals [3]:
+            xmin = 1.788 
+            xmax = 2.0370736551627164 
+            text = "none" 
+        intervals [4]:
+            xmin = 2.0370736551627164 
+            xmax = 2.2827080422192343 
+            text = "master" 
+        intervals [5]:
+            xmin = 2.2827080422192343 
+            xmax = 4.388 
+            text = "none" 
+        intervals [6]:
+            xmin = 4.388 
+            xmax = 5.106497227275524 
+            text = "master" 
+        intervals [7]:
+            xmin = 5.106497227275524 
+            xmax = 5.513 
+            text = "none" 
+        intervals [8]:
+            xmin = 5.513 
+            xmax = 6.088 
+            text = "slave" 
+        intervals [9]:
+            xmin = 6.088 
+            xmax = 7.063 
+            text = "none" 
+        intervals [10]:
+            xmin = 7.063 
+            xmax = 9.537 
+            text = "master" 
+        intervals [11]:
+            xmin = 9.537 
+            xmax = 10.137 
+            text = "none" 
+        intervals [12]:
+            xmin = 10.137 
+            xmax = 10.813 
+            text = "master" 
+        intervals [13]:
+            xmin = 10.813 
+            xmax = 11.038 
+            text = "none" 
+        intervals [14]:
+            xmin = 11.038 
+            xmax = 14.788 
+            text = "master" 
+        intervals [15]:
+            xmin = 14.788 
+            xmax = 15.387 
+            text = "none" 
+        intervals [16]:
+            xmin = 15.387 
+            xmax = 16.788 
+            text = "master" 
+        intervals [17]:
+            xmin = 16.788 
+            xmax = 17.113 
+            text = "none" 
+        intervals [18]:
+            xmin = 17.113 
+            xmax = 17.212 
+            text = "master" 
+        intervals [19]:
+            xmin = 17.212 
+            xmax = 17.613 
+            text = "none" 
+        intervals [20]:
+            xmin = 17.613 
+            xmax = 18.587 
+            text = "master" 
+        intervals [21]:
+            xmin = 18.587 
+            xmax = 18.813 
+            text = "none" 
+        intervals [22]:
+            xmin = 18.813 
+            xmax = 25.663 
+            text = "master" 
+        intervals [23]:
+            xmin = 25.663 
+            xmax = 26.462 
+            text = "none" 
+        intervals [24]:
+            xmin = 26.462 
+            xmax = 29.18662401696502 
+            text = "master" 
+        intervals [25]:
+            xmin = 29.18662401696502 
+            xmax = 29.613 
+            text = "both" 
+        intervals [26]:
+            xmin = 29.613 
+            xmax = 29.863 
+            text = "slave" 
+        intervals [27]:
+            xmin = 29.863 
+            xmax = 30.238 
+            text = "none" 
+        intervals [28]:
+            xmin = 30.238 
+            xmax = 30.663 
+            text = "master" 
+        intervals [29]:
+            xmin = 30.663 
+            xmax = 30.863 
+            text = "none" 
+        intervals [30]:
+            xmin = 30.863 
+            xmax = 31.01897473170574 
+            text = "slave" 
+        intervals [31]:
+            xmin = 31.01897473170574 
+            xmax = 32.237 
+            text = "master" 
+        intervals [32]:
+            xmin = 32.237 
+            xmax = 33.563 
+            text = "none" 
+        intervals [33]:
+            xmin = 33.563 
+            xmax = 33.737 
+            text = "slave" 
+        intervals [34]:
+            xmin = 33.737 
+            xmax = 35.813 
+            text = "master" 
+        intervals [35]:
+            xmin = 35.813 
+            xmax = 36.388 
+            text = "none" 
+        intervals [36]:
+            xmin = 36.388 
+            xmax = 37.862 
+            text = "master" 
+        intervals [37]:
+            xmin = 37.862 
+            xmax = 38.288 
+            text = "none" 
+        intervals [38]:
+            xmin = 38.288 
+            xmax = 39.278918276568504 
+            text = "master" 
+        intervals [39]:
+            xmin = 39.278918276568504 
+            xmax = 40.33697161630621 
+            text = "none" 
+        intervals [40]:
+            xmin = 40.33697161630621 
+            xmax = 41.04785120394248 
+            text = "master" 
+        intervals [41]:
+            xmin = 41.04785120394248 
+            xmax = 42.313 
+            text = "none" 
+        intervals [42]:
+            xmin = 42.313 
+            xmax = 46.462 
+            text = "master" 
+        intervals [43]:
+            xmin = 46.462 
+            xmax = 47.112 
+            text = "none" 
+        intervals [44]:
+            xmin = 47.112 
+            xmax = 48.087 
+            text = "master" 
+        intervals [45]:
+            xmin = 48.087 
+            xmax = 48.46289815890307 
+            text = "both" 
+        intervals [46]:
+            xmin = 48.46289815890307 
+            xmax = 49.513 
+            text = "slave" 
+        intervals [47]:
+            xmin = 49.513 
+            xmax = 49.663 
+            text = "both" 
+        intervals [48]:
+            xmin = 49.663 
+            xmax = 50.038 
+            text = "master" 
+        intervals [49]:
+            xmin = 50.038 
+            xmax = 50.763 
+            text = "none" 
+        intervals [50]:
+            xmin = 50.763 
+            xmax = 51.300905814970356 
+            text = "master" 
+        intervals [51]:
+            xmin = 51.300905814970356 
+            xmax = 51.663 
+            text = "none" 
+        intervals [52]:
+            xmin = 51.663 
+            xmax = 52.138 
+            text = "master" 
+        intervals [53]:
+            xmin = 52.138 
+            xmax = 52.513 
+            text = "none" 
+        intervals [54]:
+            xmin = 52.513 
+            xmax = 53.813 
+            text = "master" 
+        intervals [55]:
+            xmin = 53.813 
+            xmax = 54.112 
+            text = "none" 
+        intervals [56]:
+            xmin = 54.112 
+            xmax = 57.688 
+            text = "master" 
+        intervals [57]:
+            xmin = 57.688 
+            xmax = 58.013 
+            text = "none" 
+        intervals [58]:
+            xmin = 58.013 
+            xmax = 59.788 
+            text = "master" 
+        intervals [59]:
+            xmin = 59.788 
+            xmax = 60.013 
+            text = "none" 
+        intervals [60]:
+            xmin = 60.013 
+            xmax = 60.288 
+            text = "master" 
+        intervals [61]:
+            xmin = 60.288 
+            xmax = 60.788 
+            text = "none" 
+        intervals [62]:
+            xmin = 60.788 
+            xmax = 66.188 
+            text = "master" 
+        intervals [63]:
+            xmin = 66.188 
+            xmax = 66.513 
+            text = "none" 
+        intervals [64]:
+            xmin = 66.513 
+            xmax = 67.138 
+            text = "master" 
+        intervals [65]:
+            xmin = 67.138 
+            xmax = 67.93345525242654 
+            text = "none" 
+        intervals [66]:
+            xmin = 67.93345525242654 
+            xmax = 68.013 
+            text = "master" 
+        intervals [67]:
+            xmin = 68.013 
+            xmax = 68.537 
+            text = "both" 
+        intervals [68]:
+            xmin = 68.537 
+            xmax = 68.987 
+            text = "slave" 
+        intervals [69]:
+            xmin = 68.987 
+            xmax = 69.338 
+            text = "master" 
+        intervals [70]:
+            xmin = 69.338 
+            xmax = 69.66515722967675 
+            text = "none" 
+        intervals [71]:
+            xmin = 69.66515722967675 
+            xmax = 70.912 
+            text = "master" 
+        intervals [72]:
+            xmin = 70.912 
+            xmax = 71.08251810637759 
+            text = "none" 
+        intervals [73]:
+            xmin = 71.08251810637759 
+            xmax = 71.20502509023527 
+            text = "slave" 
+        intervals [74]:
+            xmin = 71.20502509023527 
+            xmax = 71.487 
+            text = "master" 
+        intervals [75]:
+            xmin = 71.487 
+            xmax = 71.7966368230818 
+            text = "none" 
+        intervals [76]:
+            xmin = 71.7966368230818 
+            xmax = 72.487 
+            text = "master" 
+        intervals [77]:
+            xmin = 72.487 
+            xmax = 73.013 
+            text = "both" 
+        intervals [78]:
+            xmin = 73.013 
+            xmax = 73.162 
+            text = "slave" 
+        intervals [79]:
+            xmin = 73.162 
+            xmax = 73.72797586013444 
+            text = "none" 
+        intervals [80]:
+            xmin = 73.72797586013444 
+            xmax = 74.362 
+            text = "master" 
+        intervals [81]:
+            xmin = 74.362 
+            xmax = 74.7174553451388 
+            text = "none" 
+        intervals [82]:
+            xmin = 74.7174553451388 
+            xmax = 82.037 
+            text = "master" 
+        intervals [83]:
+            xmin = 82.037 
+            xmax = 82.94901197902735 
+            text = "none" 
+        intervals [84]:
+            xmin = 82.94901197902735 
+            xmax = 83.263 
+            text = "slave" 
+        intervals [85]:
+            xmin = 83.263 
+            xmax = 83.313 
+            text = "both" 
+        intervals [86]:
+            xmin = 83.313 
+            xmax = 83.713 
+            text = "slave" 
+        intervals [87]:
+            xmin = 83.713 
+            xmax = 83.862 
+            text = "none" 
+        intervals [88]:
+            xmin = 83.862 
+            xmax = 84.862 
+            text = "master" 
+        intervals [89]:
+            xmin = 84.862 
+            xmax = 84.9833420425772 
+            text = "none" 
+        intervals [90]:
+            xmin = 84.9833420425772 
+            xmax = 85.862 
+            text = "master" 
+        intervals [91]:
+            xmin = 85.862 
+            xmax = 86.138 
+            text = "slave" 
+        intervals [92]:
+            xmin = 86.138 
+            xmax = 86.58456781640696 
+            text = "none" 
+        intervals [93]:
+            xmin = 86.58456781640696 
+            xmax = 86.862 
+            text = "master" 
+        intervals [94]:
+            xmin = 86.862 
+            xmax = 87.16759891927619 
+            text = "none" 
+        intervals [95]:
+            xmin = 87.16759891927619 
+            xmax = 87.537 
+            text = "master" 
+        intervals [96]:
+            xmin = 87.537 
+            xmax = 87.688 
+            text = "none" 
+        intervals [97]:
+            xmin = 87.688 
+            xmax = 92.43262939651943 
+            text = "master" 
+        intervals [98]:
+            xmin = 92.43262939651943 
+            xmax = 92.487 
+            text = "both" 
+        intervals [99]:
+            xmin = 92.487 
+            xmax = 94.04797134646302 
+            text = "slave" 
+        intervals [100]:
+            xmin = 94.04797134646302 
+            xmax = 96.013 
+            text = "master" 
+        intervals [101]:
+            xmin = 96.013 
+            xmax = 96.313 
+            text = "none" 
+        intervals [102]:
+            xmin = 96.313 
+            xmax = 96.787 
+            text = "slave" 
+        intervals [103]:
+            xmin = 96.787 
+            xmax = 97.263 
+            text = "both" 
+        intervals [104]:
+            xmin = 97.263 
+            xmax = 97.73522290958601 
+            text = "slave" 
+        intervals [105]:
+            xmin = 97.73522290958601 
+            xmax = 97.813 
+            text = "both" 
+        intervals [106]:
+            xmin = 97.813 
+            xmax = 100.613 
+            text = "master" 
+        intervals [107]:
+            xmin = 100.613 
+            xmax = 100.938 
+            text = "none" 
+        intervals [108]:
+            xmin = 100.938 
+            xmax = 104.662 
+            text = "master" 
+        intervals [109]:
+            xmin = 104.662 
+            xmax = 105.037 
+            text = "none" 
+        intervals [110]:
+            xmin = 105.037 
+            xmax = 106.438 
+            text = "master" 
+        intervals [111]:
+            xmin = 106.438 
+            xmax = 106.65485387997016 
+            text = "none" 
+        intervals [112]:
+            xmin = 106.65485387997016 
+            xmax = 108.563 
+            text = "master" 
+        intervals [113]:
+            xmin = 108.563 
+            xmax = 108.96735798342525 
+            text = "none" 
+        intervals [114]:
+            xmin = 108.96735798342525 
+            xmax = 113.988 
+            text = "master" 
+        intervals [115]:
+            xmin = 113.988 
+            xmax = 114.27373081136761 
+            text = "none" 
+        intervals [116]:
+            xmin = 114.27373081136761 
+            xmax = 115.138 
+            text = "master" 
+        intervals [117]:
+            xmin = 115.138 
+            xmax = 115.463 
+            text = "none" 
+        intervals [118]:
+            xmin = 115.463 
+            xmax = 115.912 
+            text = "slave" 
+        intervals [119]:
+            xmin = 115.912 
+            xmax = 116.18408165529847 
+            text = "none" 
+        intervals [120]:
+            xmin = 116.18408165529847 
+            xmax = 121.138 
+            text = "master" 
+        intervals [121]:
+            xmin = 121.138 
+            xmax = 121.912 
+            text = "none" 
+        intervals [122]:
+            xmin = 121.912 
+            xmax = 122.013 
+            text = "master" 
+        intervals [123]:
+            xmin = 122.013 
+            xmax = 122.513 
+            text = "none" 
+        intervals [124]:
+            xmin = 122.513 
+            xmax = 123.263 
+            text = "master" 
+        intervals [125]:
+            xmin = 123.263 
+            xmax = 123.638 
+            text = "none" 
+        intervals [126]:
+            xmin = 123.638 
+            xmax = 125.938 
+            text = "master" 
+        intervals [127]:
+            xmin = 125.938 
+            xmax = 126.412 
+            text = "none" 
+        intervals [128]:
+            xmin = 126.412 
+            xmax = 126.662 
+            text = "slave" 
+        intervals [129]:
+            xmin = 126.662 
+            xmax = 126.863 
+            text = "both" 
+        intervals [130]:
+            xmin = 126.863 
+            xmax = 128.713 
+            text = "master" 
+        intervals [131]:
+            xmin = 128.713 
+            xmax = 129.0972695128624 
+            text = "none" 
+        intervals [132]:
+            xmin = 129.0972695128624 
+            xmax = 136.387 
+            text = "master" 
+        intervals [133]:
+            xmin = 136.387 
+            xmax = 136.463 
+            text = "both" 
+        intervals [134]:
+            xmin = 136.463 
+            xmax = 137.887 
+            text = "slave" 
+        intervals [135]:
+            xmin = 137.887 
+            xmax = 138.1142208241684 
+            text = "both" 
+        intervals [136]:
+            xmin = 138.1142208241684 
+            xmax = 138.738 
+            text = "slave" 
+        intervals [137]:
+            xmin = 138.738 
+            xmax = 140.287 
+            text = "none" 
+        intervals [138]:
+            xmin = 140.287 
+            xmax = 141.262 
+            text = "master" 
+        intervals [139]:
+            xmin = 141.262 
+            xmax = 142.262 
+            text = "none" 
+        intervals [140]:
+            xmin = 142.262 
+            xmax = 143.662 
+            text = "master" 
+        intervals [141]:
+            xmin = 143.662 
+            xmax = 143.912 
+            text = "none" 
+        intervals [142]:
+            xmin = 143.912 
+            xmax = 145.813 
+            text = "master" 
+        intervals [143]:
+            xmin = 145.813 
+            xmax = 147.313 
+            text = "none" 
+        intervals [144]:
+            xmin = 147.313 
+            xmax = 147.963 
+            text = "slave" 
+        intervals [145]:
+            xmin = 147.963 
+            xmax = 148.088 
+            text = "both" 
+        intervals [146]:
+            xmin = 148.088 
+            xmax = 150.04771736577987 
+            text = "slave" 
+        intervals [147]:
+            xmin = 150.04771736577987 
+            xmax = 150.588 
+            text = "none" 
+        intervals [148]:
+            xmin = 150.588 
+            xmax = 152.012 
+            text = "master" 
+        intervals [149]:
+            xmin = 152.012 
+            xmax = 152.537 
+            text = "none" 
+        intervals [150]:
+            xmin = 152.537 
+            xmax = 153.01369222181748 
+            text = "master" 
+        intervals [151]:
+            xmin = 153.01369222181748 
+            xmax = 153.1788726656504 
+            text = "none" 
+        intervals [152]:
+            xmin = 153.1788726656504 
+            xmax = 155.9562089654459 
+            text = "master" 
+        intervals [153]:
+            xmin = 155.9562089654459 
+            xmax = 156.313 
+            text = "none" 
+        intervals [154]:
+            xmin = 156.313 
+            xmax = 157.262 
+            text = "master" 
+        intervals [155]:
+            xmin = 157.262 
+            xmax = 157.438 
+            text = "none" 
+        intervals [156]:
+            xmin = 157.438 
+            xmax = 159.213 
+            text = "master" 
+        intervals [157]:
+            xmin = 159.213 
+            xmax = 159.387 
+            text = "none" 
+        intervals [158]:
+            xmin = 159.387 
+            xmax = 159.813 
+            text = "slave" 
+        intervals [159]:
+            xmin = 159.813 
+            xmax = 159.988 
+            text = "none" 
+        intervals [160]:
+            xmin = 159.988 
+            xmax = 162.438 
+            text = "master" 
+        intervals [161]:
+            xmin = 162.438 
+            xmax = 164.338 
+            text = "none" 
+        intervals [162]:
+            xmin = 164.338 
+            xmax = 164.588 
+            text = "slave" 
+        intervals [163]:
+            xmin = 164.588 
+            xmax = 165.238 
+            text = "none" 
+        intervals [164]:
+            xmin = 165.238 
+            xmax = 170.363 
+            text = "master" 
+        intervals [165]:
+            xmin = 170.363 
+            xmax = 173.213 
+            text = "none" 
+        intervals [166]:
+            xmin = 173.213 
+            xmax = 174.512 
+            text = "slave" 
+        intervals [167]:
+            xmin = 174.512 
+            xmax = 174.713 
+            text = "none" 
+        intervals [168]:
+            xmin = 174.713 
+            xmax = 180.262 
+            text = "master" 
+        intervals [169]:
+            xmin = 180.262 
+            xmax = 180.3774970683833 
+            text = "none" 
+        intervals [170]:
+            xmin = 180.3774970683833 
+            xmax = 180.938 
+            text = "slave" 
+        intervals [171]:
+            xmin = 180.938 
+            xmax = 181.06937301261777 
+            text = "none" 
+        intervals [172]:
+            xmin = 181.06937301261777 
+            xmax = 183.262 
+            text = "master" 
+        intervals [173]:
+            xmin = 183.262 
+            xmax = 183.563 
+            text = "none" 
+        intervals [174]:
+            xmin = 183.563 
+            xmax = 183.99004426747362 
+            text = "slave" 
+        intervals [175]:
+            xmin = 183.99004426747362 
+            xmax = 184.387 
+            text = "none" 
+        intervals [176]:
+            xmin = 184.387 
+            xmax = 187.863 
+            text = "master" 
+        intervals [177]:
+            xmin = 187.863 
+            xmax = 188.012 
+            text = "none" 
+        intervals [178]:
+            xmin = 188.012 
+            xmax = 189.887 
+            text = "master" 
+        intervals [179]:
+            xmin = 189.887 
+            xmax = 190.037 
+            text = "none" 
+        intervals [180]:
+            xmin = 190.037 
+            xmax = 190.512 
+            text = "slave" 
+        intervals [181]:
+            xmin = 190.512 
+            xmax = 191.537 
+            text = "none" 
+        intervals [182]:
+            xmin = 191.537 
+            xmax = 193.588 
+            text = "master" 
+        intervals [183]:
+            xmin = 193.588 
+            xmax = 194.063 
+            text = "none" 
+        intervals [184]:
+            xmin = 194.063 
+            xmax = 194.762 
+            text = "master" 
+        intervals [185]:
+            xmin = 194.762 
+            xmax = 195.588 
+            text = "none" 
+        intervals [186]:
+            xmin = 195.588 
+            xmax = 195.662 
+            text = "master" 
+        intervals [187]:
+            xmin = 195.662 
+            xmax = 196.262 
+            text = "none" 
+        intervals [188]:
+            xmin = 196.262 
+            xmax = 201.713 
+            text = "master" 
+        intervals [189]:
+            xmin = 201.713 
+            xmax = 201.912 
+            text = "none" 
+        intervals [190]:
+            xmin = 201.912 
+            xmax = 204.613 
+            text = "master" 
+        intervals [191]:
+            xmin = 204.613 
+            xmax = 204.637 
+            text = "none" 
+        intervals [192]:
+            xmin = 204.637 
+            xmax = 205.113 
+            text = "slave" 
+        intervals [193]:
+            xmin = 205.113 
+            xmax = 205.41226341333095 
+            text = "none" 
+        intervals [194]:
+            xmin = 205.41226341333095 
+            xmax = 208.262 
+            text = "master" 
+        intervals [195]:
+            xmin = 208.262 
+            xmax = 210.412 
+            text = "none" 
+        intervals [196]:
+            xmin = 210.412 
+            xmax = 211.05788100148288 
+            text = "master" 
+        intervals [197]:
+            xmin = 211.05788100148288 
+            xmax = 211.363 
+            text = "none" 
+        intervals [198]:
+            xmin = 211.363 
+            xmax = 213.412 
+            text = "master" 
+        intervals [199]:
+            xmin = 213.412 
+            xmax = 213.588 
+            text = "none" 
+        intervals [200]:
+            xmin = 213.588 
+            xmax = 214.113 
+            text = "master" 
+        intervals [201]:
+            xmin = 214.113 
+            xmax = 214.2430523512398 
+            text = "none" 
+        intervals [202]:
+            xmin = 214.2430523512398 
+            xmax = 216.438 
+            text = "master" 
+        intervals [203]:
+            xmin = 216.438 
+            xmax = 217.037 
+            text = "none" 
+        intervals [204]:
+            xmin = 217.037 
+            xmax = 218.588 
+            text = "master" 
+        intervals [205]:
+            xmin = 218.588 
+            xmax = 219.15707844630614 
+            text = "both" 
+        intervals [206]:
+            xmin = 219.15707844630614 
+            xmax = 219.938 
+            text = "slave" 
+        intervals [207]:
+            xmin = 219.938 
+            xmax = 219.99057095512455 
+            text = "none" 
+        intervals [208]:
+            xmin = 219.99057095512455 
+            xmax = 220.162 
+            text = "master" 
+        intervals [209]:
+            xmin = 220.162 
+            xmax = 220.512 
+            text = "both" 
+        intervals [210]:
+            xmin = 220.512 
+            xmax = 220.988 
+            text = "master" 
+        intervals [211]:
+            xmin = 220.988 
+            xmax = 221.363 
+            text = "none" 
+        intervals [212]:
+            xmin = 221.363 
+            xmax = 224.037 
+            text = "master" 
+        intervals [213]:
+            xmin = 224.037 
+            xmax = 224.238 
+            text = "none" 
+        intervals [214]:
+            xmin = 224.238 
+            xmax = 224.39772470886615 
+            text = "slave" 
+        intervals [215]:
+            xmin = 224.39772470886615 
+            xmax = 224.713 
+            text = "both" 
+        intervals [216]:
+            xmin = 224.713 
+            xmax = 226.287 
+            text = "master" 
+        intervals [217]:
+            xmin = 226.287 
+            xmax = 226.762 
+            text = "none" 
+        intervals [218]:
+            xmin = 226.762 
+            xmax = 228.037 
+            text = "master" 
+        intervals [219]:
+            xmin = 228.037 
+            xmax = 229.537 
+            text = "none" 
+        intervals [220]:
+            xmin = 229.537 
+            xmax = 229.588 
+            text = "slave" 
+        intervals [221]:
+            xmin = 229.588 
+            xmax = 230.012 
+            text = "both" 
+        intervals [222]:
+            xmin = 230.012 
+            xmax = 231.162 
+            text = "slave" 
+        intervals [223]:
+            xmin = 231.162 
+            xmax = 231.963 
+            text = "none" 
+        intervals [224]:
+            xmin = 231.963 
+            xmax = 233.338 
+            text = "master" 
+        intervals [225]:
+            xmin = 233.338 
+            xmax = 234.012 
+            text = "none" 
+        intervals [226]:
+            xmin = 234.012 
+            xmax = 235.412 
+            text = "master" 
+        intervals [227]:
+            xmin = 235.412 
+            xmax = 235.588 
+            text = "none" 
+        intervals [228]:
+            xmin = 235.588 
+            xmax = 237.287 
+            text = "slave" 
+        intervals [229]:
+            xmin = 237.287 
+            xmax = 240.738 
+            text = "master" 
+        intervals [230]:
+            xmin = 240.738 
+            xmax = 241.188 
+            text = "none" 
+        intervals [231]:
+            xmin = 241.188 
+            xmax = 243.338 
+            text = "master" 
+        intervals [232]:
+            xmin = 243.338 
+            xmax = 243.637 
+            text = "none" 
+        intervals [233]:
+            xmin = 243.637 
+            xmax = 244.063 
+            text = "slave" 
+        intervals [234]:
+            xmin = 244.063 
+            xmax = 244.512 
+            text = "none" 
+        intervals [235]:
+            xmin = 244.512 
+            xmax = 248.338 
+            text = "master" 
+        intervals [236]:
+            xmin = 248.338 
+            xmax = 248.713 
+            text = "none" 
+        intervals [237]:
+            xmin = 248.713 
+            xmax = 251.537 
+            text = "master" 
+        intervals [238]:
+            xmin = 251.537 
+            xmax = 251.988 
+            text = "none" 
+        intervals [239]:
+            xmin = 251.988 
+            xmax = 252.313 
+            text = "master" 
+        intervals [240]:
+            xmin = 252.313 
+            xmax = 252.537 
+            text = "none" 
+        intervals [241]:
+            xmin = 252.537 
+            xmax = 254.213 
+            text = "master" 
+        intervals [242]:
+            xmin = 254.213 
+            xmax = 254.488 
+            text = "none" 
+        intervals [243]:
+            xmin = 254.488 
+            xmax = 256.663 
+            text = "master" 
+        intervals [244]:
+            xmin = 256.663 
+            xmax = 257.212 
+            text = "none" 
+        intervals [245]:
+            xmin = 257.212 
+            xmax = 259.538 
+            text = "master" 
+        intervals [246]:
+            xmin = 259.538 
+            xmax = 261.538 
+            text = "none" 
+        intervals [247]:
+            xmin = 261.538 
+            xmax = 262.712 
+            text = "slave" 
+        intervals [248]:
+            xmin = 262.712 
+            xmax = 263.3433815304915 
+            text = "both" 
+        intervals [249]:
+            xmin = 263.3433815304915 
+            xmax = 264.163 
+            text = "master" 
+        intervals [250]:
+            xmin = 264.163 
+            xmax = 264.337 
+            text = "both" 
+        intervals [251]:
+            xmin = 264.337 
+            xmax = 265.837 
+            text = "master" 
+        intervals [252]:
+            xmin = 265.837 
+            xmax = 266.313 
+            text = "none" 
+        intervals [253]:
+            xmin = 266.313 
+            xmax = 266.587 
+            text = "master" 
+        intervals [254]:
+            xmin = 266.587 
+            xmax = 266.887 
+            text = "none" 
+        intervals [255]:
+            xmin = 266.887 
+            xmax = 267.538 
+            text = "master" 
+        intervals [256]:
+            xmin = 267.538 
+            xmax = 267.938 
+            text = "both" 
+        intervals [257]:
+            xmin = 267.938 
+            xmax = 269.413 
+            text = "slave" 
+        intervals [258]:
+            xmin = 269.413 
+            xmax = 270.712 
+            text = "both" 
+        intervals [259]:
+            xmin = 270.712 
+            xmax = 270.837 
+            text = "slave" 
+        intervals [260]:
+            xmin = 270.837 
+            xmax = 271.137 
+            text = "both" 
+        intervals [261]:
+            xmin = 271.137 
+            xmax = 272.637 
+            text = "master" 
+        intervals [262]:
+            xmin = 272.637 
+            xmax = 274.512 
+            text = "none" 
+        intervals [263]:
+            xmin = 274.512 
+            xmax = 274.962 
+            text = "slave" 
+        intervals [264]:
+            xmin = 274.962 
+            xmax = 275.163 
+            text = "none" 
+        intervals [265]:
+            xmin = 275.163 
+            xmax = 277.038 
+            text = "master" 
+        intervals [266]:
+            xmin = 277.038 
+            xmax = 277.637 
+            text = "none" 
+        intervals [267]:
+            xmin = 277.637 
+            xmax = 277.887 
+            text = "slave" 
+        intervals [268]:
+            xmin = 277.887 
+            xmax = 278.438 
+            text = "none" 
+        intervals [269]:
+            xmin = 278.438 
+            xmax = 278.75377320507937 
+            text = "both" 
+        intervals [270]:
+            xmin = 278.75377320507937 
+            xmax = 278.913 
+            text = "slave" 
+        intervals [271]:
+            xmin = 278.913 
+            xmax = 279.113 
+            text = "none" 
+        intervals [272]:
+            xmin = 279.113 
+            xmax = 279.762 
+            text = "master" 
+        intervals [273]:
+            xmin = 279.762 
+            xmax = 280.0101791885588 
+            text = "both" 
+        intervals [274]:
+            xmin = 280.0101791885588 
+            xmax = 280.837 
+            text = "slave" 
+        intervals [275]:
+            xmin = 280.837 
+            xmax = 282.262 
+            text = "none" 
+        intervals [276]:
+            xmin = 282.262 
+            xmax = 282.813 
+            text = "master" 
+        intervals [277]:
+            xmin = 282.813 
+            xmax = 282.938 
+            text = "none" 
+        intervals [278]:
+            xmin = 282.938 
+            xmax = 284.038 
+            text = "master" 
+        intervals [279]:
+            xmin = 284.038 
+            xmax = 284.413 
+            text = "none" 
+        intervals [280]:
+            xmin = 284.413 
+            xmax = 284.938 
+            text = "slave" 
+        intervals [281]:
+            xmin = 284.938 
+            xmax = 285.188 
+            text = "none" 
+        intervals [282]:
+            xmin = 285.188 
+            xmax = 285.262 
+            text = "slave" 
+        intervals [283]:
+            xmin = 285.262 
+            xmax = 285.663 
+            text = "both" 
+        intervals [284]:
+            xmin = 285.663 
+            xmax = 286.288 
+            text = "master" 
+        intervals [285]:
+            xmin = 286.288 
+            xmax = 286.94007770364306 
+            text = "both" 
+        intervals [286]:
+            xmin = 286.94007770364306 
+            xmax = 287.2691364136019 
+            text = "none" 
+        intervals [287]:
+            xmin = 287.2691364136019 
+            xmax = 293.7315741160508 
+            text = "master" 
+        intervals [288]:
+            xmin = 293.7315741160508 
+            xmax = 294.83404726172193 
+            text = "both" 
+        intervals [289]:
+            xmin = 294.83404726172193 
+            xmax = 295.1705579602553 
+            text = "master" 
+        intervals [290]:
+            xmin = 295.1705579602553 
+            xmax = 295.563 
+            text = "slave" 
+        intervals [291]:
+            xmin = 295.563 
+            xmax = 295.813 
+            text = "none" 
+        intervals [292]:
+            xmin = 295.813 
+            xmax = 299.587 
+            text = "master" 
+        intervals [293]:
+            xmin = 299.587 
+            xmax = 300.087 
+            text = "none" 
+        intervals [294]:
+            xmin = 300.087 
+            xmax = 304.063 
+            text = "master" 
+        intervals [295]:
+            xmin = 304.063 
+            xmax = 304.2020109090546 
+            text = "both" 
+        intervals [296]:
+            xmin = 304.2020109090546 
+            xmax = 305.137 
+            text = "slave" 
+        intervals [297]:
+            xmin = 305.137 
+            xmax = 305.587 
+            text = "none" 
+        intervals [298]:
+            xmin = 305.587 
+            xmax = 309.113 
+            text = "master" 
+        intervals [299]:
+            xmin = 309.113 
+            xmax = 309.462 
+            text = "none" 
+        intervals [300]:
+            xmin = 309.462 
+            xmax = 312.113 
+            text = "master" 
+        intervals [301]:
+            xmin = 312.113 
+            xmax = 312.363 
+            text = "none" 
+        intervals [302]:
+            xmin = 312.363 
+            xmax = 312.938 
+            text = "slave" 
+        intervals [303]:
+            xmin = 312.938 
+            xmax = 313.438 
+            text = "none" 
+        intervals [304]:
+            xmin = 313.438 
+            xmax = 315.313 
+            text = "master" 
+        intervals [305]:
+            xmin = 315.313 
+            xmax = 315.688 
+            text = "slave" 
+        intervals [306]:
+            xmin = 315.688 
+            xmax = 316.262 
+            text = "none" 
+        intervals [307]:
+            xmin = 316.262 
+            xmax = 316.663 
+            text = "master" 
+        intervals [308]:
+            xmin = 316.663 
+            xmax = 317.113 
+            text = "none" 
+        intervals [309]:
+            xmin = 317.113 
+            xmax = 319.663 
+            text = "master" 
+        intervals [310]:
+            xmin = 319.663 
+            xmax = 320.313 
+            text = "none" 
+        intervals [311]:
+            xmin = 320.313 
+            xmax = 322.57645802027156 
+            text = "slave" 
+        intervals [312]:
+            xmin = 322.57645802027156 
+            xmax = 323.887 
+            text = "none" 
+        intervals [313]:
+            xmin = 323.887 
+            xmax = 326.813 
+            text = "master" 
+        intervals [314]:
+            xmin = 326.813 
+            xmax = 326.85943603978757 
+            text = "both" 
+        intervals [315]:
+            xmin = 326.85943603978757 
+            xmax = 327.038 
+            text = "slave" 
+        intervals [316]:
+            xmin = 327.038 
+            xmax = 327.563 
+            text = "none" 
+        intervals [317]:
+            xmin = 327.563 
+            xmax = 327.863 
+            text = "master" 
+        intervals [318]:
+            xmin = 327.863 
+            xmax = 327.988 
+            text = "none" 
+        intervals [319]:
+            xmin = 327.988 
+            xmax = 331.038 
+            text = "master" 
+        intervals [320]:
+            xmin = 331.038 
+            xmax = 331.262 
+            text = "both" 
+        intervals [321]:
+            xmin = 331.262 
+            xmax = 331.488 
+            text = "master" 
+        intervals [322]:
+            xmin = 331.488 
+            xmax = 332.09378690923927 
+            text = "none" 
+        intervals [323]:
+            xmin = 332.09378690923927 
+            xmax = 332.688 
+            text = "master" 
+        intervals [324]:
+            xmin = 332.688 
+            xmax = 333.038 
+            text = "both" 
+        intervals [325]:
+            xmin = 333.038 
+            xmax = 334.587 
+            text = "slave" 
+        intervals [326]:
+            xmin = 334.587 
+            xmax = 334.63113451874017 
+            text = "both" 
+        intervals [327]:
+            xmin = 334.63113451874017 
+            xmax = 335.64081405130713 
+            text = "master" 
+        intervals [328]:
+            xmin = 335.64081405130713 
+            xmax = 336.0668612245442 
+            text = "none" 
+        intervals [329]:
+            xmin = 336.0668612245442 
+            xmax = 336.363 
+            text = "master" 
+        intervals [330]:
+            xmin = 336.363 
+            xmax = 336.988 
+            text = "none" 
+        intervals [331]:
+            xmin = 336.988 
+            xmax = 339.163 
+            text = "master" 
+        intervals [332]:
+            xmin = 339.163 
+            xmax = 339.288 
+            text = "none" 
+        intervals [333]:
+            xmin = 339.288 
+            xmax = 339.762 
+            text = "slave" 
+        intervals [334]:
+            xmin = 339.762 
+            xmax = 340.137 
+            text = "none" 
+        intervals [335]:
+            xmin = 340.137 
+            xmax = 340.2440517563229 
+            text = "master" 
+        intervals [336]:
+            xmin = 340.2440517563229 
+            xmax = 340.563 
+            text = "none" 
+        intervals [337]:
+            xmin = 340.563 
+            xmax = 341.313 
+            text = "master" 
+        intervals [338]:
+            xmin = 341.313 
+            xmax = 341.488 
+            text = "none" 
+        intervals [339]:
+            xmin = 341.488 
+            xmax = 343.663 
+            text = "master" 
+        intervals [340]:
+            xmin = 343.663 
+            xmax = 343.788 
+            text = "none" 
+        intervals [341]:
+            xmin = 343.788 
+            xmax = 344.113 
+            text = "slave" 
+        intervals [342]:
+            xmin = 344.113 
+            xmax = 344.712 
+            text = "none" 
+        intervals [343]:
+            xmin = 344.712 
+            xmax = 348.288 
+            text = "master" 
+        intervals [344]:
+            xmin = 348.288 
+            xmax = 348.887 
+            text = "none" 
+        intervals [345]:
+            xmin = 348.887 
+            xmax = 354.762 
+            text = "master" 
+        intervals [346]:
+            xmin = 354.762 
+            xmax = 357.837 
+            text = "none" 
+        intervals [347]:
+            xmin = 357.837 
+            xmax = 357.9336318959397 
+            text = "slave" 
+        intervals [348]:
+            xmin = 357.9336318959397 
+            xmax = 358.188 
+            text = "both" 
+        intervals [349]:
+            xmin = 358.188 
+            xmax = 359.137 
+            text = "slave" 
+        intervals [350]:
+            xmin = 359.137 
+            xmax = 360.212 
+            text = "master" 
+        intervals [351]:
+            xmin = 360.212 
+            xmax = 360.438 
+            text = "none" 
+        intervals [352]:
+            xmin = 360.438 
+            xmax = 360.538 
+            text = "master" 
+        intervals [353]:
+            xmin = 360.538 
+            xmax = 361.038 
+            text = "both" 
+        intervals [354]:
+            xmin = 361.038 
+            xmax = 361.71531703513625 
+            text = "slave" 
+        intervals [355]:
+            xmin = 361.71531703513625 
+            xmax = 361.938 
+            text = "both" 
+        intervals [356]:
+            xmin = 361.938 
+            xmax = 362.44084662214186 
+            text = "master" 
+        intervals [357]:
+            xmin = 362.44084662214186 
+            xmax = 362.59697324213045 
+            text = "both" 
+        intervals [358]:
+            xmin = 362.59697324213045 
+            xmax = 363.462 
+            text = "slave" 
+        intervals [359]:
+            xmin = 363.462 
+            xmax = 364.012 
+            text = "both" 
+        intervals [360]:
+            xmin = 364.012 
+            xmax = 364.738 
+            text = "master" 
+        intervals [361]:
+            xmin = 364.738 
+            xmax = 364.788 
+            text = "none" 
+        intervals [362]:
+            xmin = 364.788 
+            xmax = 365.587 
+            text = "slave" 
+        intervals [363]:
+            xmin = 365.587 
+            xmax = 369.038 
+            text = "none" 
+        intervals [364]:
+            xmin = 369.038 
+            xmax = 369.462 
+            text = "slave" 
+        intervals [365]:
+            xmin = 369.462 
+            xmax = 369.5037339803322 
+            text = "none" 
+        intervals [366]:
+            xmin = 369.5037339803322 
+            xmax = 372.788 
+            text = "master" 
+        intervals [367]:
+            xmin = 372.788 
+            xmax = 373.688 
+            text = "none" 
+        intervals [368]:
+            xmin = 373.688 
+            xmax = 375.363 
+            text = "master" 
+        intervals [369]:
+            xmin = 375.363 
+            xmax = 375.788 
+            text = "none" 
+        intervals [370]:
+            xmin = 375.788 
+            xmax = 382.462 
+            text = "master" 
+        intervals [371]:
+            xmin = 382.462 
+            xmax = 382.788 
+            text = "none" 
+        intervals [372]:
+            xmin = 382.788 
+            xmax = 384.063 
+            text = "master" 
+        intervals [373]:
+            xmin = 384.063 
+            xmax = 384.563 
+            text = "slave" 
+        intervals [374]:
+            xmin = 384.563 
+            xmax = 384.813 
+            text = "none" 
+        intervals [375]:
+            xmin = 384.813 
+            xmax = 387.212 
+            text = "master" 
+        intervals [376]:
+            xmin = 387.212 
+            xmax = 387.4427803964464 
+            text = "none" 
+        intervals [377]:
+            xmin = 387.4427803964464 
+            xmax = 390.22332242229334 
+            text = "master" 
+        intervals [378]:
+            xmin = 390.22332242229334 
+            xmax = 390.413 
+            text = "both" 
+        intervals [379]:
+            xmin = 390.413 
+            xmax = 390.887 
+            text = "slave" 
+        intervals [380]:
+            xmin = 390.887 
+            xmax = 391.363 
+            text = "none" 
+        intervals [381]:
+            xmin = 391.363 
+            xmax = 394.488 
+            text = "master" 
+        intervals [382]:
+            xmin = 394.488 
+            xmax = 396.238 
+            text = "slave" 
+        intervals [383]:
+            xmin = 396.238 
+            xmax = 396.988 
+            text = "none" 
+        intervals [384]:
+            xmin = 396.988 
+            xmax = 398.563 
+            text = "master" 
+        intervals [385]:
+            xmin = 398.563 
+            xmax = 398.837 
+            text = "none" 
+        intervals [386]:
+            xmin = 398.837 
+            xmax = 398.887 
+            text = "slave" 
+        intervals [387]:
+            xmin = 398.887 
+            xmax = 399.163 
+            text = "both" 
+        intervals [388]:
+            xmin = 399.163 
+            xmax = 399.488 
+            text = "slave" 
+        intervals [389]:
+            xmin = 399.488 
+            xmax = 399.5298646262366 
+            text = "none" 
+        intervals [390]:
+            xmin = 399.5298646262366 
+            xmax = 399.712 
+            text = "master" 
+        intervals [391]:
+            xmin = 399.712 
+            xmax = 401.538 
+            text = "none" 
+        intervals [392]:
+            xmin = 401.538 
+            xmax = 405.837 
+            text = "master" 
+        intervals [393]:
+            xmin = 405.837 
+            xmax = 406.938 
+            text = "none" 
+        intervals [394]:
+            xmin = 406.938 
+            xmax = 407.313 
+            text = "slave" 
+        intervals [395]:
+            xmin = 407.313 
+            xmax = 407.84970999994727 
+            text = "both" 
+        intervals [396]:
+            xmin = 407.84970999994727 
+            xmax = 409.238 
+            text = "slave" 
+        intervals [397]:
+            xmin = 409.238 
+            xmax = 409.413 
+            text = "both" 
+        intervals [398]:
+            xmin = 409.413 
+            xmax = 410.113 
+            text = "slave" 
+        intervals [399]:
+            xmin = 410.113 
+            xmax = 411.087 
+            text = "master" 
+        intervals [400]:
+            xmin = 411.087 
+            xmax = 411.5122598642136 
+            text = "none" 
+        intervals [401]:
+            xmin = 411.5122598642136 
+            xmax = 411.980491690575 
+            text = "both" 
+        intervals [402]:
+            xmin = 411.980491690575 
+            xmax = 412.4799123717495 
+            text = "slave" 
+        intervals [403]:
+            xmin = 412.4799123717495 
+            xmax = 413.113 
+            text = "none" 
+        intervals [404]:
+            xmin = 413.113 
+            xmax = 414.0994235802053 
+            text = "master" 
+        intervals [405]:
+            xmin = 414.0994235802053 
+            xmax = 414.512 
+            text = "slave" 
+        intervals [406]:
+            xmin = 414.512 
+            xmax = 414.913 
+            text = "none" 
+        intervals [407]:
+            xmin = 414.913 
+            xmax = 415.363 
+            text = "master" 
+        intervals [408]:
+            xmin = 415.363 
+            xmax = 416.212 
+            text = "none" 
+        intervals [409]:
+            xmin = 416.212 
+            xmax = 420.587 
+            text = "master" 
+        intervals [410]:
+            xmin = 420.587 
+            xmax = 420.863 
+            text = "none" 
+        intervals [411]:
+            xmin = 420.863 
+            xmax = 423.538 
+            text = "master" 
+        intervals [412]:
+            xmin = 423.538 
+            xmax = 423.788 
+            text = "slave" 
+        intervals [413]:
+            xmin = 423.788 
+            xmax = 424.438 
+            text = "none" 
+        intervals [414]:
+            xmin = 424.438 
+            xmax = 424.813 
+            text = "master" 
+        intervals [415]:
+            xmin = 424.813 
+            xmax = 425.163 
+            text = "none" 
+        intervals [416]:
+            xmin = 425.163 
+            xmax = 432.587 
+            text = "master" 
+        intervals [417]:
+            xmin = 432.587 
+            xmax = 433.188 
+            text = "none" 
+        intervals [418]:
+            xmin = 433.188 
+            xmax = 435.563 
+            text = "master" 
+        intervals [419]:
+            xmin = 435.563 
+            xmax = 438.087 
+            text = "none" 
+        intervals [420]:
+            xmin = 438.087 
+            xmax = 438.538 
+            text = "master" 
+        intervals [421]:
+            xmin = 438.538 
+            xmax = 438.938 
+            text = "none" 
+        intervals [422]:
+            xmin = 438.938 
+            xmax = 443.563 
+            text = "master" 
+        intervals [423]:
+            xmin = 443.563 
+            xmax = 443.962 
+            text = "none" 
+        intervals [424]:
+            xmin = 443.962 
+            xmax = 444.512 
+            text = "slave" 
+        intervals [425]:
+            xmin = 444.512 
+            xmax = 445.063 
+            text = "none" 
+        intervals [426]:
+            xmin = 445.063 
+            xmax = 447.962 
+            text = "master" 
+        intervals [427]:
+            xmin = 447.962 
+            xmax = 448.0783410900779 
+            text = "none" 
+        intervals [428]:
+            xmin = 448.0783410900779 
+            xmax = 448.387 
+            text = "slave" 
+        intervals [429]:
+            xmin = 448.387 
+            xmax = 448.538 
+            text = "none" 
+        intervals [430]:
+            xmin = 448.538 
+            xmax = 448.712 
+            text = "master" 
+        intervals [431]:
+            xmin = 448.712 
+            xmax = 449.3704306519566 
+            text = "none" 
+        intervals [432]:
+            xmin = 449.3704306519566 
+            xmax = 451.788 
+            text = "master" 
+        intervals [433]:
+            xmin = 451.788 
+            xmax = 452.488 
+            text = "none" 
+        intervals [434]:
+            xmin = 452.488 
+            xmax = 453.288 
+            text = "master" 
+        intervals [435]:
+            xmin = 453.288 
+            xmax = 454.438 
+            text = "none" 
+        intervals [436]:
+            xmin = 454.438 
+            xmax = 456.262 
+            text = "master" 
+        intervals [437]:
+            xmin = 456.262 
+            xmax = 456.637 
+            text = "none" 
+        intervals [438]:
+            xmin = 456.637 
+            xmax = 457.313 
+            text = "master" 
+        intervals [439]:
+            xmin = 457.313 
+            xmax = 457.688 
+            text = "none" 
+        intervals [440]:
+            xmin = 457.688 
+            xmax = 458.063 
+            text = "master" 
+        intervals [441]:
+            xmin = 458.063 
+            xmax = 458.413 
+            text = "none" 
+        intervals [442]:
+            xmin = 458.413 
+            xmax = 460.913 
+            text = "master" 
+        intervals [443]:
+            xmin = 460.913 
+            xmax = 461.087 
+            text = "none" 
+        intervals [444]:
+            xmin = 461.087 
+            xmax = 462.29489142469043 
+            text = "master" 
+        intervals [445]:
+            xmin = 462.29489142469043 
+            xmax = 464.762 
+            text = "none" 
+        intervals [446]:
+            xmin = 464.762 
+            xmax = 465.238 
+            text = "slave" 
+        intervals [447]:
+            xmin = 465.238 
+            xmax = 465.663 
+            text = "none" 
+        intervals [448]:
+            xmin = 465.663 
+            xmax = 469.913 
+            text = "master" 
+        intervals [449]:
+            xmin = 469.913 
+            xmax = 470.262 
+            text = "none" 
+        intervals [450]:
+            xmin = 470.262 
+            xmax = 474.2667734978512 
+            text = "master" 
+        intervals [451]:
+            xmin = 474.2667734978512 
+            xmax = 476.538 
+            text = "none" 
+        intervals [452]:
+            xmin = 476.538 
+            xmax = 476.837 
+            text = "slave" 
+        intervals [453]:
+            xmin = 476.837 
+            xmax = 477.288 
+            text = "none" 
+        intervals [454]:
+            xmin = 477.288 
+            xmax = 477.512 
+            text = "master" 
+        intervals [455]:
+            xmin = 477.512 
+            xmax = 477.863 
+            text = "none" 
+        intervals [456]:
+            xmin = 477.863 
+            xmax = 480.738 
+            text = "master" 
+        intervals [457]:
+            xmin = 480.738 
+            xmax = 481.012 
+            text = "none" 
+        intervals [458]:
+            xmin = 481.012 
+            xmax = 482.887 
+            text = "master" 
+        intervals [459]:
+            xmin = 482.887 
+            xmax = 483.288 
+            text = "none" 
+        intervals [460]:
+            xmin = 483.288 
+            xmax = 483.488 
+            text = "slave" 
+        intervals [461]:
+            xmin = 483.488 
+            xmax = 483.762 
+            text = "none" 
+        intervals [462]:
+            xmin = 483.762 
+            xmax = 485.837 
+            text = "master" 
+        intervals [463]:
+            xmin = 485.837 
+            xmax = 486.063 
+            text = "none" 
+        intervals [464]:
+            xmin = 486.063 
+            xmax = 491.762 
+            text = "master" 
+        intervals [465]:
+            xmin = 491.762 
+            xmax = 492.462 
+            text = "none" 
+        intervals [466]:
+            xmin = 492.462 
+            xmax = 497.887 
+            text = "master" 
+        intervals [467]:
+            xmin = 497.887 
+            xmax = 498.238 
+            text = "none" 
+        intervals [468]:
+            xmin = 498.238 
+            xmax = 500.012 
+            text = "master" 
+        intervals [469]:
+            xmin = 500.012 
+            xmax = 501.012 
+            text = "none" 
+        intervals [470]:
+            xmin = 501.012 
+            xmax = 502.863 
+            text = "master" 
+        intervals [471]:
+            xmin = 502.863 
+            xmax = 503.563 
+            text = "none" 
+        intervals [472]:
+            xmin = 503.563 
+            xmax = 508.063 
+            text = "master" 
+        intervals [473]:
+            xmin = 508.063 
+            xmax = 509.087 
+            text = "none" 
+        intervals [474]:
+            xmin = 509.087 
+            xmax = 512.112 
+            text = "master" 
+        intervals [475]:
+            xmin = 512.112 
+            xmax = 514.063 
+            text = "none" 
+        intervals [476]:
+            xmin = 514.063 
+            xmax = 514.513 
+            text = "slave" 
+        intervals [477]:
+            xmin = 514.513 
+            xmax = 514.787071064679 
+            text = "both" 
+        intervals [478]:
+            xmin = 514.787071064679 
+            xmax = 515.638 
+            text = "slave" 
+        intervals [479]:
+            xmin = 515.638 
+            xmax = 516.212 
+            text = "none" 
+        intervals [480]:
+            xmin = 516.212 
+            xmax = 517.163 
+            text = "master" 
+        intervals [481]:
+            xmin = 517.163 
+            xmax = 517.237 
+            text = "both" 
+        intervals [482]:
+            xmin = 517.237 
+            xmax = 517.587 
+            text = "slave" 
+        intervals [483]:
+            xmin = 517.587 
+            xmax = 517.837 
+            text = "both" 
+        intervals [484]:
+            xmin = 517.837 
+            xmax = 518.712 
+            text = "master" 
+        intervals [485]:
+            xmin = 518.712 
+            xmax = 519.038 
+            text = "none" 
+        intervals [486]:
+            xmin = 519.038 
+            xmax = 520.212 
+            text = "master" 
+        intervals [487]:
+            xmin = 520.212 
+            xmax = 520.587 
+            text = "none" 
+        intervals [488]:
+            xmin = 520.587 
+            xmax = 523.112 
+            text = "master" 
+        intervals [489]:
+            xmin = 523.112 
+            xmax = 523.788 
+            text = "none" 
+        intervals [490]:
+            xmin = 523.788 
+            xmax = 525.837 
+            text = "slave" 
+        intervals [491]:
+            xmin = 525.837 
+            xmax = 526.763 
+            text = "both" 
+        intervals [492]:
+            xmin = 526.763 
+            xmax = 529.938 
+            text = "master" 
+        intervals [493]:
+            xmin = 529.938 
+            xmax = 530.112 
+            text = "none" 
+        intervals [494]:
+            xmin = 530.112 
+            xmax = 531.638 
+            text = "master" 
+        intervals [495]:
+            xmin = 531.638 
+            xmax = 533.763 
+            text = "none" 
+        intervals [496]:
+            xmin = 533.763 
+            xmax = 536.288 
+            text = "master" 
+        intervals [497]:
+            xmin = 536.288 
+            xmax = 536.538 
+            text = "none" 
+        intervals [498]:
+            xmin = 536.538 
+            xmax = 539.862 
+            text = "master" 
+        intervals [499]:
+            xmin = 539.862 
+            xmax = 540.388 
+            text = "slave" 
+        intervals [500]:
+            xmin = 540.388 
+            xmax = 540.837 
+            text = "both" 
+        intervals [501]:
+            xmin = 540.837 
+            xmax = 541.413 
+            text = "master" 
+        intervals [502]:
+            xmin = 541.413 
+            xmax = 541.7880411088887 
+            text = "both" 
+        intervals [503]:
+            xmin = 541.7880411088887 
+            xmax = 546.087 
+            text = "master" 
+        intervals [504]:
+            xmin = 546.087 
+            xmax = 546.263 
+            text = "none" 
+        intervals [505]:
+            xmin = 546.263 
+            xmax = 547.538 
+            text = "master" 
+        intervals [506]:
+            xmin = 547.538 
+            xmax = 547.737 
+            text = "none" 
+        intervals [507]:
+            xmin = 547.737 
+            xmax = 547.8227705820184 
+            text = "slave" 
+        intervals [508]:
+            xmin = 547.8227705820184 
+            xmax = 548.163 
+            text = "both" 
+        intervals [509]:
+            xmin = 548.163 
+            xmax = 549.962 
+            text = "master" 
+        intervals [510]:
+            xmin = 549.962 
+            xmax = 550.538 
+            text = "slave" 
+        intervals [511]:
+            xmin = 550.538 
+            xmax = 551.013 
+            text = "none" 
+        intervals [512]:
+            xmin = 551.013 
+            xmax = 551.313 
+            text = "master" 
+        intervals [513]:
+            xmin = 551.313 
+            xmax = 551.788 
+            text = "none" 
+        intervals [514]:
+            xmin = 551.788 
+            xmax = 552.638 
+            text = "master" 
+        intervals [515]:
+            xmin = 552.638 
+            xmax = 552.837 
+            text = "none" 
+        intervals [516]:
+            xmin = 552.837 
+            xmax = 552.987 
+            text = "slave" 
+        intervals [517]:
+            xmin = 552.987 
+            xmax = 553.462 
+            text = "none" 
+        intervals [518]:
+            xmin = 553.462 
+            xmax = 553.712 
+            text = "master" 
+        intervals [519]:
+            xmin = 553.712 
+            xmax = 553.938 
+            text = "both" 
+        intervals [520]:
+            xmin = 553.938 
+            xmax = 554.263 
+            text = "master" 
+        intervals [521]:
+            xmin = 554.263 
+            xmax = 555.837 
+            text = "END" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 555.837 
+        intervals: size = 521 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.438 
+            text = "" 
+        intervals [2]:
+            xmin = 1.438 
+            xmax = 1.788 
+            text = "toda" 
+        intervals [3]:
+            xmin = 1.788 
+            xmax = 2.0370736551627164 
+            text = "" 
+        intervals [4]:
+            xmin = 2.0370736551627164 
+            xmax = 2.2827080422192343 
+            text = "tov" 
+        intervals [5]:
+            xmin = 2.2827080422192343 
+            xmax = 4.388 
+            text = "" 
+        intervals [6]:
+            xmin = 4.388 
+            xmax = 5.106497227275524 
+            text = "hay shlomit" 
+        intervals [7]:
+            xmin = 5.106497227275524 
+            xmax = 5.513 
+            text = "" 
+        intervals [8]:
+            xmin = 5.513 
+            xmax = 6.088 
+            text = "hay dafna" 
+        intervals [9]:
+            xmin = 6.088 
+            xmax = 7.063 
+            text = "" 
+        intervals [10]:
+            xmin = 7.063 
+            xmax = 9.537 
+            text = "e nira li sheli yesh maslul al hamapa" 
+        intervals [11]:
+            xmin = 9.537 
+            xmax = 10.137 
+            text = "" 
+        intervals [12]:
+            xmin = 10.137 
+            xmax = 10.813 
+            text = "em" 
+        intervals [13]:
+            xmin = 10.813 
+            xmax = 11.038 
+            text = "" 
+        intervals [14]:
+            xmin = 11.038 
+            xmax = 14.788 
+            text = "yesh li po e ani agid lax ma yesh etsli tagidi li ma yesh etslex veaz" 
+        intervals [15]:
+            xmin = 14.788 
+            xmax = 15.387 
+            text = "" 
+        intervals [16]:
+            xmin = 15.387 
+            xmax = 16.788 
+            text = "yesh e" 
+        intervals [17]:
+            xmin = 16.788 
+            xmax = 17.113 
+            text = "" 
+        intervals [18]:
+            xmin = 17.113 
+            xmax = 17.212 
+            text = "<creaky voice>" 
+        intervals [19]:
+            xmin = 17.212 
+            xmax = 17.613 
+            text = "" 
+        intervals [20]:
+            xmin = 17.613 
+            xmax = 18.587 
+            text = "hadaf ze ey arba" 
+        intervals [21]:
+            xmin = 18.587 
+            xmax = 18.813 
+            text = "" 
+        intervals [22]:
+            xmin = 18.813 
+            xmax = 25.663 
+            text = "yesh lo keilu misgeret betox hamisgeret yesh kol miney nekudot nagid moadon yaxtot xava xaklait masait xona" 
+        intervals [23]:
+            xmin = 25.663 
+            xmax = 26.462 
+            text = "" 
+        intervals [24]:
+            xmin = 26.462 
+            xmax = 29.18662401696502 
+            text = "e xanut tsilum harisot minzar gina" 
+        intervals [25]:
+            xmin = 29.18662401696502 
+            xmax = 29.613 
+            text = "[M a tsibur] [S kol ze]" 
+        intervals [26]:
+            xmin = 29.613 
+            xmax = 29.863 
+            text = "yeshno" 
+        intervals [27]:
+            xmin = 29.863 
+            xmax = 30.238 
+            text = "" 
+        intervals [28]:
+            xmin = 30.238 
+            xmax = 30.663 
+            text = "yeshno" 
+        intervals [29]:
+            xmin = 30.663 
+            xmax = 30.863 
+            text = "" 
+        intervals [30]:
+            xmin = 30.863 
+            xmax = 31.01897473170574 
+            text = "ken" 
+        intervals [31]:
+            xmin = 31.01897473170574 
+            xmax = 32.237 
+            text = "yofi az yesh li maslul" 
+        intervals [32]:
+            xmin = 32.237 
+            xmax = 33.563 
+            text = "" 
+        intervals [33]:
+            xmin = 33.563 
+            xmax = 33.737 
+            text = "ken" 
+        intervals [34]:
+            xmin = 33.737 
+            xmax = 35.813 
+            text = "e az nekudat hahatxala" 
+        intervals [35]:
+            xmin = 35.813 
+            xmax = 36.388 
+            text = "" 
+        intervals [36]:
+            xmin = 36.388 
+            xmax = 37.862 
+            text = "e hi nimtset" 
+        intervals [37]:
+            xmin = 37.862 
+            xmax = 38.288 
+            text = "" 
+        intervals [38]:
+            xmin = 38.288 
+            xmax = 39.278918276568504 
+            text = "beerex" 
+        intervals [39]:
+            xmin = 39.278918276568504 
+            xmax = 40.33697161630621 
+            text = "" 
+        intervals [40]:
+            xmin = 40.33697161630621 
+            xmax = 41.04785120394248 
+            text = "tsh tsh tsh" 
+        intervals [41]:
+            xmin = 41.04785120394248 
+            xmax = 42.313 
+            text = "" 
+        intervals [42]:
+            xmin = 42.313 
+            xmax = 46.462 
+            text = "mamash e ani yodaat santimeter meal xanut hatsilum" 
+        intervals [43]:
+            xmin = 46.462 
+            xmax = 47.112 
+            text = "" 
+        intervals [44]:
+            xmin = 47.112 
+            xmax = 48.087 
+            text = "beseder keilu meal xanut" 
+        intervals [45]:
+            xmin = 48.087 
+            xmax = 48.46289815890307 
+            text = "[M hatsil] [S a hine]" 
+        intervals [46]:
+            xmin = 48.46289815890307 
+            xmax = 49.513 
+            text = "gam li yesh nekudat hatxala" 
+        intervals [47]:
+            xmin = 49.513 
+            xmax = 49.663 
+            text = "[M y] [S ken]" 
+        intervals [48]:
+            xmin = 49.663 
+            xmax = 50.038 
+            text = "yafe" 
+        intervals [49]:
+            xmin = 50.038 
+            xmax = 50.763 
+            text = "" 
+        intervals [50]:
+            xmin = 50.763 
+            xmax = 51.300905814970356 
+            text = "axshav" 
+        intervals [51]:
+            xmin = 51.300905814970356 
+            xmax = 51.663 
+            text = "" 
+        intervals [52]:
+            xmin = 51.663 
+            xmax = 52.138 
+            text = "em" 
+        intervals [53]:
+            xmin = 52.138 
+            xmax = 52.513 
+            text = "" 
+        intervals [54]:
+            xmin = 52.513 
+            xmax = 53.813 
+            text = "od al tas a tesamni" 
+        intervals [55]:
+            xmin = 53.813 
+            xmax = 54.112 
+            text = "" 
+        intervals [56]:
+            xmin = 54.112 
+            xmax = 57.688 
+            text = "ma sheani aase ani eten kodem kol ezeshehu skirat al kazoti" 
+        intervals [57]:
+            xmin = 57.688 
+            xmax = 58.013 
+            text = "" 
+        intervals [58]:
+            xmin = 58.013 
+            xmax = 59.788 
+            text = "veaz nered lerezolutsyot e ze" 
+        intervals [59]:
+            xmin = 59.788 
+            xmax = 60.013 
+            text = "" 
+        intervals [60]:
+            xmin = 60.013 
+            xmax = 60.288 
+            text = "beseder" 
+        intervals [61]:
+            xmin = 60.288 
+            xmax = 60.788 
+            text = "" 
+        intervals [62]:
+            xmin = 60.788 
+            xmax = 66.188 
+            text = "beikaron hamaslul e nekudat yesh lax et nekudat hasiyum hu ktsat leyad haagam hamizraxi" 
+        intervals [63]:
+            xmin = 66.188 
+            xmax = 66.513 
+            text = "" 
+        intervals [64]:
+            xmin = 66.513 
+            xmax = 67.138 
+            text = "mofia lax" 
+        intervals [65]:
+            xmin = 67.138 
+            xmax = 67.93345525242654 
+            text = "" 
+        intervals [66]:
+            xmin = 67.93345525242654 
+            xmax = 68.013 
+            text = "tis" 
+        intervals [67]:
+            xmin = 68.013 
+            xmax = 68.537 
+            text = "[M stakli le] [S lo en li]" 
+        intervals [68]:
+            xmin = 68.537 
+            xmax = 68.987 
+            text = "nekudat siyum" 
+        intervals [69]:
+            xmin = 68.987 
+            xmax = 69.338 
+            text = "okey" 
+        intervals [70]:
+            xmin = 69.338 
+            xmax = 69.66515722967675 
+            text = "" 
+        intervals [71]:
+            xmin = 69.66515722967675 
+            xmax = 70.912 
+            text = "at roa et haagam hamizraxi" 
+        intervals [72]:
+            xmin = 70.912 
+            xmax = 71.08251810637759 
+            text = "" 
+        intervals [73]:
+            xmin = 71.08251810637759 
+            xmax = 71.20502509023527 
+            text = "ken" 
+        intervals [74]:
+            xmin = 71.20502509023527 
+            xmax = 71.487 
+            text = "lemala" 
+        intervals [75]:
+            xmin = 71.487 
+            xmax = 71.7966368230818 
+            text = "" 
+        intervals [76]:
+            xmin = 71.7966368230818 
+            xmax = 72.487 
+            text = "okey az ma" 
+        intervals [77]:
+            xmin = 72.487 
+            xmax = 73.013 
+            text = "[M mash e] [S yamin lema]" 
+        intervals [78]:
+            xmin = 73.013 
+            xmax = 73.162 
+            text = "la" 
+        intervals [79]:
+            xmin = 73.162 
+            xmax = 73.72797586013444 
+            text = "" 
+        intervals [80]:
+            xmin = 73.72797586013444 
+            xmax = 74.362 
+            text = "naxon" 
+        intervals [81]:
+            xmin = 74.362 
+            xmax = 74.7174553451388 
+            text = "" 
+        intervals [82]:
+            xmin = 74.7174553451388 
+            xmax = 82.037 
+            text = "az e yesh lo kodkod e e kaze at yodaat yesh lo tsura muzara kazot veyesh bapina hasmalit min kodkod kaze" 
+        intervals [83]:
+            xmin = 82.037 
+            xmax = 82.94901197902735 
+            text = "" 
+        intervals [84]:
+            xmin = 82.94901197902735 
+            xmax = 83.263 
+            text = "smali" 
+        intervals [85]:
+            xmin = 83.263 
+            xmax = 83.313 
+            text = "[M a] [S t]" 
+        intervals [86]:
+            xmin = 83.313 
+            xmax = 83.713 
+            text = "lemala" 
+        intervals [87]:
+            xmin = 83.713 
+            xmax = 83.862 
+            text = "" 
+        intervals [88]:
+            xmin = 83.862 
+            xmax = 84.862 
+            text = "smalit lemata" 
+        intervals [89]:
+            xmin = 84.862 
+            xmax = 84.9833420425772 
+            text = "" 
+        intervals [90]:
+            xmin = 84.9833420425772 
+            xmax = 85.862 
+            text = "slixa shelo" 
+        intervals [91]:
+            xmin = 85.862 
+            xmax = 86.138 
+            text = "ken" 
+        intervals [92]:
+            xmin = 86.138 
+            xmax = 86.58456781640696 
+            text = "" 
+        intervals [93]:
+            xmin = 86.58456781640696 
+            xmax = 86.862 
+            text = "naxon" 
+        intervals [94]:
+            xmin = 86.862 
+            xmax = 87.16759891927619 
+            text = "" 
+        intervals [95]:
+            xmin = 87.16759891927619 
+            xmax = 87.537 
+            text = "az" 
+        intervals [96]:
+            xmin = 87.537 
+            xmax = 87.688 
+            text = "" 
+        intervals [97]:
+            xmin = 87.688 
+            xmax = 92.43262939651943 
+            text = "gam xatsi santimeter leyad ze yesh kmo sheyesh iks nekudat hatxala shama tihye nekudat hasiyu" 
+        intervals [98]:
+            xmin = 92.43262939651943 
+            xmax = 92.487 
+            text = "[M m] [S x]" 
+        intervals [99]:
+            xmin = 92.487 
+            xmax = 94.04797134646302 
+            text = "xatsi santimeter mismol la" 
+        intervals [100]:
+            xmin = 94.04797134646302 
+            xmax = 96.013 
+            text = "mismol latshuptshik hasmali" 
+        intervals [101]:
+            xmin = 96.013 
+            xmax = 96.313 
+            text = "" 
+        intervals [102]:
+            xmin = 96.313 
+            xmax = 96.787 
+            text = "hataxton" 
+        intervals [103]:
+            xmin = 96.787 
+            xmax = 97.263 
+            text = "[M hataxton] [S ken bese]" 
+        intervals [104]:
+            xmin = 97.263 
+            xmax = 97.73522290958601 
+            text = "eder oke" 
+        intervals [105]:
+            xmin = 97.73522290958601 
+            xmax = 97.813 
+            text = "[M be] [S ey]" 
+        intervals [106]:
+            xmin = 97.813 
+            xmax = 100.613 
+            text = "seder axshav ze ze beetsem nekudat hasiyum" 
+        intervals [107]:
+            xmin = 100.613 
+            xmax = 100.938 
+            text = "" 
+        intervals [108]:
+            xmin = 100.938 
+            xmax = 104.662 
+            text = "kshehamaslul atsmo hu maslul maagal hu mit hu lo maagali" 
+        intervals [109]:
+            xmin = 104.662 
+            xmax = 105.037 
+            text = "" 
+        intervals [110]:
+            xmin = 105.037 
+            xmax = 106.438 
+            text = "hu kav e akum" 
+        intervals [111]:
+            xmin = 106.438 
+            xmax = 106.65485387997016 
+            text = "" 
+        intervals [112]:
+            xmin = 106.65485387997016 
+            xmax = 108.563 
+            text = "zot omeret ze lo kavim shvurim yesharim" 
+        intervals [113]:
+            xmin = 108.563 
+            xmax = 108.96735798342525 
+            text = "" 
+        intervals [114]:
+            xmin = 108.96735798342525 
+            xmax = 113.988 
+            text = "vehu mitpatel ben e e kol paam hu nogea be e over leyad" 
+        intervals [115]:
+            xmin = 113.988 
+            xmax = 114.27373081136761 
+            text = "" 
+        intervals [116]:
+            xmin = 114.27373081136761 
+            xmax = 115.138 
+            text = "e atarim shonim" 
+        intervals [117]:
+            xmin = 115.138 
+            xmax = 115.463 
+            text = "" 
+        intervals [118]:
+            xmin = 115.463 
+            xmax = 115.912 
+            text = "okey" 
+        intervals [119]:
+            xmin = 115.912 
+            xmax = 116.18408165529847 
+            text = "" 
+        intervals [120]:
+            xmin = 116.18408165529847 
+            xmax = 121.138 
+            text = "az ani e b bo naase kaxa begadol veaz ani enase gam lehagid lax ex ze nira" 
+        intervals [121]:
+            xmin = 121.138 
+            xmax = 121.912 
+            text = "" 
+        intervals [122]:
+            xmin = 121.912 
+            xmax = 122.013 
+            text = "<tsk>" 
+        intervals [123]:
+            xmin = 122.013 
+            xmax = 122.513 
+            text = "" 
+        intervals [124]:
+            xmin = 122.513 
+            xmax = 123.263 
+            text = "e e nek" 
+        intervals [125]:
+            xmin = 123.263 
+            xmax = 123.638 
+            text = "" 
+        intervals [126]:
+            xmin = 123.638 
+            xmax = 125.938 
+            text = "e nekudat hahatxala yordim mixanut hatsilum" 
+        intervals [127]:
+            xmin = 125.938 
+            xmax = 126.412 
+            text = "" 
+        intervals [128]:
+            xmin = 126.412 
+            xmax = 126.662 
+            text = "mm" 
+        intervals [129]:
+            xmin = 126.662 
+            xmax = 126.863 
+            text = "[M yor] [S m]" 
+        intervals [130]:
+            xmin = 126.863 
+            xmax = 128.713 
+            text = "dim yordim yordim lamasait haxona" 
+        intervals [131]:
+            xmin = 128.713 
+            xmax = 129.0972695128624 
+            text = "" 
+        intervals [132]:
+            xmin = 129.0972695128624 
+            xmax = 136.387 
+            text = "axshav mitaxat lamasait haxona keilu osim e vi kaze mitaxteha keilu ze min kaze lokxim ota besal keilu at metsayeret sal mitaxteha" 
+        intervals [133]:
+            xmin = 136.387 
+            xmax = 136.463 
+            text = "[M a] [S r]" 
+        intervals [134]:
+            xmin = 136.463 
+            xmax = 137.887 
+            text = "re yordim lamasait haxona e" 
+        intervals [135]:
+            xmin = 137.887 
+            xmax = 138.1142208241684 
+            text = "[M ken] [S tsli hi]" 
+        intervals [136]:
+            xmin = 138.1142208241684 
+            xmax = 138.738 
+            text = "leyad haagam" 
+        intervals [137]:
+            xmin = 138.738 
+            xmax = 140.287 
+            text = "" 
+        intervals [138]:
+            xmin = 140.287 
+            xmax = 141.262 
+            text = "a masa" 
+        intervals [139]:
+            xmin = 141.262 
+            xmax = 142.262 
+            text = "" 
+        intervals [140]:
+            xmin = 142.262 
+            xmax = 143.662 
+            text = "lo az yesh od masait xona" 
+        intervals [141]:
+            xmin = 143.662 
+            xmax = 143.912 
+            text = "" 
+        intervals [142]:
+            xmin = 143.912 
+            xmax = 145.813 
+            text = "ki yesh li gam masait xona leyad haagam" 
+        intervals [143]:
+            xmin = 145.813 
+            xmax = 147.313 
+            text = "" 
+        intervals [144]:
+            xmin = 147.313 
+            xmax = 147.963 
+            text = "yesh li leyad" 
+        intervals [145]:
+            xmin = 147.963 
+            xmax = 148.088 
+            text = "[M m] [S x]" 
+        intervals [146]:
+            xmin = 148.088 
+            xmax = 150.04771736577987 
+            text = "anut hatsilum xava xaklait vemoadon yaxtot" 
+        intervals [147]:
+            xmin = 150.04771736577987 
+            xmax = 150.588 
+            text = "" 
+        intervals [148]:
+            xmin = 150.588 
+            xmax = 152.012 
+            text = "a okey az boi tiri" 
+        intervals [149]:
+            xmin = 152.012 
+            xmax = 152.537 
+            text = "" 
+        intervals [150]:
+            xmin = 152.537 
+            xmax = 153.01369222181748 
+            text = "em" 
+        intervals [151]:
+            xmin = 153.01369222181748 
+            xmax = 153.1788726656504 
+            text = "" 
+        intervals [152]:
+            xmin = 153.1788726656504 
+            xmax = 155.9562089654459 
+            text = "mitaxat lexanut hatsilum kvar naase nun tsadik" 
+        intervals [153]:
+            xmin = 155.9562089654459 
+            xmax = 156.313 
+            text = "" 
+        intervals [154]:
+            xmin = 156.313 
+            xmax = 157.262 
+            text = "e tasimi" 
+        intervals [155]:
+            xmin = 157.262 
+            xmax = 157.438 
+            text = "" 
+        intervals [156]:
+            xmin = 157.438 
+            xmax = 159.213 
+            text = "e shtey etsbaot mitaxat" 
+        intervals [157]:
+            xmin = 159.213 
+            xmax = 159.387 
+            text = "" 
+        intervals [158]:
+            xmin = 159.387 
+            xmax = 159.813 
+            text = "mm" 
+        intervals [159]:
+            xmin = 159.813 
+            xmax = 159.988 
+            text = "" 
+        intervals [160]:
+            xmin = 159.988 
+            xmax = 162.438 
+            text = "vetixtevi masait xona yesh od masait xona" 
+        intervals [161]:
+            xmin = 162.438 
+            xmax = 164.338 
+            text = "" 
+        intervals [162]:
+            xmin = 164.338 
+            xmax = 164.588 
+            text = "ken" 
+        intervals [163]:
+            xmin = 164.588 
+            xmax = 165.238 
+            text = "" 
+        intervals [164]:
+            xmin = 165.238 
+            xmax = 170.363 
+            text = "axshav minekudat hahatxana anaxnu yordim veme keilu misaviv lamasait haxona" 
+        intervals [165]:
+            xmin = 170.363 
+            xmax = 173.213 
+            text = "" 
+        intervals [166]:
+            xmin = 173.213 
+            xmax = 174.512 
+            text = "rega xanut tsilum en lax po" 
+        intervals [167]:
+            xmin = 174.512 
+            xmax = 174.713 
+            text = "" 
+        intervals [168]:
+            xmin = 174.713 
+            xmax = 180.262 
+            text = "ken ken az ani o minekudat hahatxala derex anaxnu ovrim hakav over mismol lexanut hatsilum" 
+        intervals [169]:
+            xmin = 180.262 
+            xmax = 180.3774970683833 
+            text = "" 
+        intervals [170]:
+            xmin = 180.3774970683833 
+            xmax = 180.938 
+            text = "okey" 
+        intervals [171]:
+            xmin = 180.938 
+            xmax = 181.06937301261777 
+            text = "" 
+        intervals [172]:
+            xmin = 181.06937301261777 
+            xmax = 183.262 
+            text = "mismol lamaxan lamasait haxona" 
+        intervals [173]:
+            xmin = 183.262 
+            xmax = 183.563 
+            text = "" 
+        intervals [174]:
+            xmin = 183.563 
+            xmax = 183.99004426747362 
+            text = "aha" 
+        intervals [175]:
+            xmin = 183.99004426747362 
+            xmax = 184.387 
+            text = "" 
+        intervals [176]:
+            xmin = 184.387 
+            xmax = 187.863 
+            text = "ole xazara miyamin lamasait haxona laxava haxaklait" 
+        intervals [177]:
+            xmin = 187.863 
+            xmax = 188.012 
+            text = "" 
+        intervals [178]:
+            xmin = 188.012 
+            xmax = 189.887 
+            text = "vekeilu ole meal haxava haxaklait" 
+        intervals [179]:
+            xmin = 189.887 
+            xmax = 190.037 
+            text = "" 
+        intervals [180]:
+            xmin = 190.037 
+            xmax = 190.512 
+            text = "okey" 
+        intervals [181]:
+            xmin = 190.512 
+            xmax = 191.537 
+            text = "" 
+        intervals [182]:
+            xmin = 191.537 
+            xmax = 193.588 
+            text = "okey axshav mexava xaklait" 
+        intervals [183]:
+            xmin = 193.588 
+            xmax = 194.063 
+            text = "" 
+        intervals [184]:
+            xmin = 194.063 
+            xmax = 194.762 
+            text = "em" 
+        intervals [185]:
+            xmin = 194.762 
+            xmax = 195.588 
+            text = "" 
+        intervals [186]:
+            xmin = 195.588 
+            xmax = 195.662 
+            text = "<tsk>" 
+        intervals [187]:
+            xmin = 195.662 
+            xmax = 196.262 
+            text = "" 
+        intervals [188]:
+            xmin = 196.262 
+            xmax = 201.713 
+            text = "hu holex e hak beetsem hamaslul leharisot haminzar aval ze lo kav yashar" 
+        intervals [189]:
+            xmin = 201.713 
+            xmax = 201.912 
+            text = "" 
+        intervals [190]:
+            xmin = 201.912 
+            xmax = 204.613 
+            text = "ze lo at yodaat ben shtey nekudot over kav yashar" 
+        intervals [191]:
+            xmin = 204.613 
+            xmax = 204.637 
+            text = "" 
+        intervals [192]:
+            xmin = 204.637 
+            xmax = 205.113 
+            text = "mm" 
+        intervals [193]:
+            xmin = 205.113 
+            xmax = 205.41226341333095 
+            text = "" 
+        intervals [194]:
+            xmin = 205.41226341333095 
+            xmax = 208.262 
+            text = "ela anaxnu nikax em" 
+        intervals [195]:
+            xmin = 208.262 
+            xmax = 210.412 
+            text = "" 
+        intervals [196]:
+            xmin = 210.412 
+            xmax = 211.05788100148288 
+            text = "texef" 
+        intervals [197]:
+            xmin = 211.05788100148288 
+            xmax = 211.363 
+            text = "" 
+        intervals [198]:
+            xmin = 211.363 
+            xmax = 213.412 
+            text = "beetsem ze yotse mashehu kaze" 
+        intervals [199]:
+            xmin = 213.412 
+            xmax = 213.588 
+            text = "" 
+        intervals [200]:
+            xmin = 213.588 
+            xmax = 214.113 
+            text = "tistakli" 
+        intervals [201]:
+            xmin = 214.113 
+            xmax = 214.2430523512398 
+            text = "" 
+        intervals [202]:
+            xmin = 214.2430523512398 
+            xmax = 216.438 
+            text = "keilu kaxa kmo beten keilu yesh lo beten" 
+        intervals [203]:
+            xmin = 216.438 
+            xmax = 217.037 
+            text = "" 
+        intervals [204]:
+            xmin = 217.037 
+            xmax = 218.588 
+            text = "aval ani im ani ehye meduy" 
+        intervals [205]:
+            xmin = 218.588 
+            xmax = 219.15707844630614 
+            text = "[M yeket] [S beten yami]" 
+        intervals [206]:
+            xmin = 219.15707844630614 
+            xmax = 219.938 
+            text = "na o beten smola" 
+        intervals [207]:
+            xmin = 219.938 
+            xmax = 219.99057095512455 
+            text = "" 
+        intervals [208]:
+            xmin = 219.99057095512455 
+            xmax = 220.162 
+            text = "be" 
+        intervals [209]:
+            xmin = 220.162 
+            xmax = 220.512 
+            text = "[M ten ye] [S sheli]" 
+        intervals [210]:
+            xmin = 220.512 
+            xmax = 220.988 
+            text = "mina" 
+        intervals [211]:
+            xmin = 220.988 
+            xmax = 221.363 
+            text = "" 
+        intervals [212]:
+            xmin = 221.363 
+            xmax = 224.037 
+            text = "rega bete mehaxava haxaklait tikxi yemina" 
+        intervals [213]:
+            xmin = 224.037 
+            xmax = 224.238 
+            text = "" 
+        intervals [214]:
+            xmin = 224.238 
+            xmax = 224.39772470886615 
+            text = "a" 
+        intervals [215]:
+            xmin = 224.39772470886615 
+            xmax = 224.713 
+            text = "[M mashehu] [S ha]" 
+        intervals [216]:
+            xmin = 224.713 
+            xmax = 226.287 
+            text = "kmo em" 
+        intervals [217]:
+            xmin = 226.287 
+            xmax = 226.762 
+            text = "" 
+        intervals [218]:
+            xmin = 226.762 
+            xmax = 228.037 
+            text = "roxav shel kaf yad" 
+        intervals [219]:
+            xmin = 228.037 
+            xmax = 229.537 
+            text = "" 
+        intervals [220]:
+            xmin = 229.537 
+            xmax = 229.588 
+            text = "a" 
+        intervals [221]:
+            xmin = 229.588 
+            xmax = 230.012 
+            text = "[M kaxa] [S ani overet]" 
+        intervals [222]:
+            xmin = 230.012 
+            xmax = 231.162 
+            text = "miyamin lemuzeon hatayis" 
+        intervals [223]:
+            xmin = 231.162 
+            xmax = 231.963 
+            text = "" 
+        intervals [224]:
+            xmin = 231.963 
+            xmax = 233.338 
+            text = "li en muzeon tayis" 
+        intervals [225]:
+            xmin = 233.338 
+            xmax = 234.012 
+            text = "" 
+        intervals [226]:
+            xmin = 234.012 
+            xmax = 235.412 
+            text = "yesh lax arizot minzar" 
+        intervals [227]:
+            xmin = 235.412 
+            xmax = 235.588 
+            text = "" 
+        intervals [228]:
+            xmin = 235.588 
+            xmax = 237.287 
+            text = "harisot minzar yesh li beerex beemtsa hadaf" 
+        intervals [229]:
+            xmin = 237.287 
+            xmax = 240.738 
+            text = "naxon bidiyuk az nira li e nira li sheanaxnu" 
+        intervals [230]:
+            xmin = 240.738 
+            xmax = 241.188 
+            text = "" 
+        intervals [231]:
+            xmin = 241.188 
+            xmax = 243.338 
+            text = "ani mitalemet mehatayis ki en li tayis" 
+        intervals [232]:
+            xmin = 243.338 
+            xmax = 243.637 
+            text = "" 
+        intervals [233]:
+            xmin = 243.637 
+            xmax = 244.063 
+            text = "okey" 
+        intervals [234]:
+            xmin = 244.063 
+            xmax = 244.512 
+            text = "" 
+        intervals [235]:
+            xmin = 244.512 
+            xmax = 248.338 
+            text = "e veani tsrixa lehagia beetsem mehaxava haxaklait leharisot haminzar" 
+        intervals [236]:
+            xmin = 248.338 
+            xmax = 248.713 
+            text = "" 
+        intervals [237]:
+            xmin = 248.713 
+            xmax = 251.537 
+            text = "aval shuv lo derex kav yashar ela min beten" 
+        intervals [238]:
+            xmin = 251.537 
+            xmax = 251.988 
+            text = "" 
+        intervals [239]:
+            xmin = 251.988 
+            xmax = 252.313 
+            text = "az" 
+        intervals [240]:
+            xmin = 252.313 
+            xmax = 252.537 
+            text = "" 
+        intervals [241]:
+            xmin = 252.537 
+            xmax = 254.213 
+            text = "anaxnu nikax keilu kav" 
+        intervals [242]:
+            xmin = 254.213 
+            xmax = 254.488 
+            text = "" 
+        intervals [243]:
+            xmin = 254.488 
+            xmax = 256.663 
+            text = "yemina vetipale tipale alaxson" 
+        intervals [244]:
+            xmin = 256.663 
+            xmax = 257.212 
+            text = "" 
+        intervals [245]:
+            xmin = 257.212 
+            xmax = 259.538 
+            text = "be beorex shel xamesh etsbaot" 
+        intervals [246]:
+            xmin = 259.538 
+            xmax = 261.538 
+            text = "" 
+        intervals [247]:
+            xmin = 261.538 
+            xmax = 262.712 
+            text = "okey veaz ani ma" 
+        intervals [248]:
+            xmin = 262.712 
+            xmax = 263.3433815304915 
+            text = "[M vea] [S gia]" 
+        intervals [249]:
+            xmin = 263.3433815304915 
+            xmax = 264.163 
+            text = "az at me mi" 
+        intervals [250]:
+            xmin = 264.163 
+            xmax = 264.337 
+            text = "[M le] [S ani]" 
+        intervals [251]:
+            xmin = 264.337 
+            xmax = 265.837 
+            text = "mala shel harisot haminzar" 
+        intervals [252]:
+            xmin = 265.837 
+            xmax = 266.313 
+            text = "" 
+        intervals [253]:
+            xmin = 266.313 
+            xmax = 266.587 
+            text = "keilu" 
+        intervals [254]:
+            xmin = 266.587 
+            xmax = 266.887 
+            text = "" 
+        intervals [255]:
+            xmin = 266.887 
+            xmax = 267.538 
+            text = "em" 
+        intervals [256]:
+            xmin = 267.538 
+            xmax = 267.938 
+            text = "[M lo m] [S ani ani]" 
+        intervals [257]:
+            xmin = 267.938 
+            xmax = 269.413 
+            text = "i overet miyamin leharisot haminza" 
+        intervals [258]:
+            xmin = 269.413 
+            xmax = 270.712 
+            text = "[M bidiyuk mi] [S r yamin sheli veaz shuv]" 
+        intervals [259]:
+            xmin = 270.712 
+            xmax = 270.837 
+            text = "le" 
+        intervals [260]:
+            xmin = 270.837 
+            xmax = 271.137 
+            text = "[M bi] [S mala]" 
+        intervals [261]:
+            xmin = 271.137 
+            xmax = 272.637 
+            text = "idiyuk veaz shuv lemala" 
+        intervals [262]:
+            xmin = 272.637 
+            xmax = 274.512 
+            text = "" 
+        intervals [263]:
+            xmin = 274.512 
+            xmax = 274.962 
+            text = "okey" 
+        intervals [264]:
+            xmin = 274.962 
+            xmax = 275.163 
+            text = "" 
+        intervals [265]:
+            xmin = 275.163 
+            xmax = 277.038 
+            text = "axshav yesh lax gina tsiburit" 
+        intervals [266]:
+            xmin = 277.038 
+            xmax = 277.637 
+            text = "" 
+        intervals [267]:
+            xmin = 277.637 
+            xmax = 277.887 
+            text = "ken" 
+        intervals [268]:
+            xmin = 277.887 
+            xmax = 278.438 
+            text = "" 
+        intervals [269]:
+            xmin = 278.438 
+            xmax = 278.75377320507937 
+            text = "[M okey] [S mismo]" 
+        intervals [270]:
+            xmin = 278.75377320507937 
+            xmax = 278.913 
+            text = "ol" 
+        intervals [271]:
+            xmin = 278.913 
+            xmax = 279.113 
+            text = "" 
+        intervals [272]:
+            xmin = 279.113 
+            xmax = 279.762 
+            text = "mismol bi" 
+        intervals [273]:
+            xmin = 279.762 
+            xmax = 280.0101791885588 
+            text = "[M idiyuk] [S meal]" 
+        intervals [274]:
+            xmin = 280.0101791885588 
+            xmax = 280.837 
+            text = "l haagam hamaaravi" 
+        intervals [275]:
+            xmin = 280.837 
+            xmax = 282.262 
+            text = "" 
+        intervals [276]:
+            xmin = 282.262 
+            xmax = 282.813 
+            text = "az li en" 
+        intervals [277]:
+            xmin = 282.813 
+            xmax = 282.938 
+            text = "" 
+        intervals [278]:
+            xmin = 282.938 
+            xmax = 284.038 
+            text = "li en agam maaravi" 
+        intervals [279]:
+            xmin = 284.038 
+            xmax = 284.413 
+            text = "" 
+        intervals [280]:
+            xmin = 284.413 
+            xmax = 284.938 
+            text = "meanyen" 
+        intervals [281]:
+            xmin = 284.938 
+            xmax = 285.188 
+            text = "" 
+        intervals [282]:
+            xmin = 285.188 
+            xmax = 285.262 
+            text = "<giggle>" 
+        intervals [283]:
+            xmin = 285.262 
+            xmax = 285.663 
+            text = "[M ke lo] [S <giggle>]" 
+        intervals [284]:
+            xmin = 285.663 
+            xmax = 286.288 
+            text = "ze beseder" 
+        intervals [285]:
+            xmin = 286.288 
+            xmax = 286.94007770364306 
+            text = "[M ze meanyen] [S okey]" 
+        intervals [286]:
+            xmin = 286.94007770364306 
+            xmax = 287.2691364136019 
+            text = "" 
+        intervals [287]:
+            xmin = 287.2691364136019 
+            xmax = 293.7315741160508 
+            text = "aval ani agid lax etsli hagina hatsiburit hi nimtset mismol leharisot haminzar aval tipa lem" 
+        intervals [288]:
+            xmin = 293.7315741160508 
+            xmax = 294.83404726172193 
+            text = "[M ala keilu tsaad le] [S naxon gam etsli]" 
+        intervals [289]:
+            xmin = 294.83404726172193 
+            xmax = 295.1705579602553 
+            text = "mala" 
+        intervals [290]:
+            xmin = 295.1705579602553 
+            xmax = 295.563 
+            text = "okey" 
+        intervals [291]:
+            xmin = 295.563 
+            xmax = 295.813 
+            text = "" 
+        intervals [292]:
+            xmin = 295.813 
+            xmax = 299.587 
+            text = "yofi az axshav ma sheanaxnu naase anaxnu namshix et hakav shel harisot haminzar" 
+        intervals [293]:
+            xmin = 299.587 
+            xmax = 300.087 
+            text = "" 
+        intervals [294]:
+            xmin = 300.087 
+            xmax = 304.063 
+            text = "ktsat keilu naase lo taltal lemata venaavor mismol lagina hatsiburi" 
+        intervals [295]:
+            xmin = 304.063 
+            xmax = 304.2020109090546 
+            text = "[M t] [S m]" 
+        intervals [296]:
+            xmin = 304.2020109090546 
+            xmax = 305.137 
+            text = "mitaxat vemismol" 
+        intervals [297]:
+            xmin = 305.137 
+            xmax = 305.587 
+            text = "" 
+        intervals [298]:
+            xmin = 305.587 
+            xmax = 309.113 
+            text = "ken aval lo yashar mitaxat ela meharisot haminzar at keilu mamshixa" 
+        intervals [299]:
+            xmin = 309.113 
+            xmax = 309.462 
+            text = "" 
+        intervals [300]:
+            xmin = 309.462 
+            xmax = 312.113 
+            text = "e morida afilu tipa keilu sheyesh lax gal kaze" 
+        intervals [301]:
+            xmin = 312.113 
+            xmax = 312.363 
+            text = "" 
+        intervals [302]:
+            xmin = 312.363 
+            xmax = 312.938 
+            text = "okey" 
+        intervals [303]:
+            xmin = 312.938 
+            xmax = 313.438 
+            text = "" 
+        intervals [304]:
+            xmin = 313.438 
+            xmax = 315.313 
+            text = "veaz mismol lagina hatsiburit" 
+        intervals [305]:
+            xmin = 315.313 
+            xmax = 315.688 
+            text = "okey" 
+        intervals [306]:
+            xmin = 315.688 
+            xmax = 316.262 
+            text = "" 
+        intervals [307]:
+            xmin = 316.262 
+            xmax = 316.663 
+            text = "axshav" 
+        intervals [308]:
+            xmin = 316.663 
+            xmax = 317.113 
+            text = "" 
+        intervals [309]:
+            xmin = 317.113 
+            xmax = 319.663 
+            text = "meal hagina hatsiburit yesh li axsanyat noar" 
+        intervals [310]:
+            xmin = 319.663 
+            xmax = 320.313 
+            text = "" 
+        intervals [311]:
+            xmin = 320.313 
+            xmax = 322.57645802027156 
+            text = "e li en yesh li gader geder yetedot" 
+        intervals [312]:
+            xmin = 322.57645802027156 
+            xmax = 323.887 
+            text = "" 
+        intervals [313]:
+            xmin = 323.887 
+            xmax = 326.813 
+            text = "hageder yetedot hi krova letsad smol shel hadaf" 
+        intervals [314]:
+            xmin = 326.813 
+            xmax = 326.85943603978757 
+            text = "[M f] [S k]" 
+        intervals [315]:
+            xmin = 326.85943603978757 
+            xmax = 327.038 
+            text = "ken" 
+        intervals [316]:
+            xmin = 327.038 
+            xmax = 327.563 
+            text = "" 
+        intervals [317]:
+            xmin = 327.563 
+            xmax = 327.863 
+            text = "okey" 
+        intervals [318]:
+            xmin = 327.863 
+            xmax = 327.988 
+            text = "" 
+        intervals [319]:
+            xmin = 327.988 
+            xmax = 331.038 
+            text = "az boi yesh lanu od nun tsadik yesh lax masait xona le" 
+        intervals [320]:
+            xmin = 331.038 
+            xmax = 331.262 
+            text = "[M yad e] [S ken]" 
+        intervals [321]:
+            xmin = 331.262 
+            xmax = 331.488 
+            text = "e" 
+        intervals [322]:
+            xmin = 331.488 
+            xmax = 332.09378690923927 
+            text = "" 
+        intervals [323]:
+            xmin = 332.09378690923927 
+            xmax = 332.688 
+            text = "az ktsa" 
+        intervals [324]:
+            xmin = 332.688 
+            xmax = 333.038 
+            text = "[M t mita] [S ben]" 
+        intervals [325]:
+            xmin = 333.038 
+            xmax = 334.587 
+            text = "hagader leven haagam hamizraxi" 
+        intervals [326]:
+            xmin = 334.587 
+            xmax = 334.63113451874017 
+            text = "[M n] [S i]" 
+        intervals [327]:
+            xmin = 334.63113451874017 
+            xmax = 335.64081405130713 
+            text = "naxon bidiyuk" 
+        intervals [328]:
+            xmin = 335.64081405130713 
+            xmax = 336.0668612245442 
+            text = "" 
+        intervals [329]:
+            xmin = 336.0668612245442 
+            xmax = 336.363 
+            text = "az" 
+        intervals [330]:
+            xmin = 336.363 
+            xmax = 336.988 
+            text = "" 
+        intervals [331]:
+            xmin = 336.988 
+            xmax = 339.163 
+            text = "mehamasait haxona kxi et haemtsa shela" 
+        intervals [332]:
+            xmin = 339.163 
+            xmax = 339.288 
+            text = "" 
+        intervals [333]:
+            xmin = 339.288 
+            xmax = 339.762 
+            text = "mm" 
+        intervals [334]:
+            xmin = 339.762 
+            xmax = 340.137 
+            text = "" 
+        intervals [335]:
+            xmin = 340.137 
+            xmax = 340.2440517563229 
+            text = "<tsk>" 
+        intervals [336]:
+            xmin = 340.2440517563229 
+            xmax = 340.563 
+            text = "" 
+        intervals [337]:
+            xmin = 340.563 
+            xmax = 341.313 
+            text = "toridi" 
+        intervals [338]:
+            xmin = 341.313 
+            xmax = 341.488 
+            text = "" 
+        intervals [339]:
+            xmin = 341.488 
+            xmax = 343.663 
+            text = "e kav beorex shel shtey etsbaot" 
+        intervals [340]:
+            xmin = 343.663 
+            xmax = 343.788 
+            text = "" 
+        intervals [341]:
+            xmin = 343.788 
+            xmax = 344.113 
+            text = "ken" 
+        intervals [342]:
+            xmin = 344.113 
+            xmax = 344.712 
+            text = "" 
+        intervals [343]:
+            xmin = 344.712 
+            xmax = 348.288 
+            text = "ve e hakatse bakav ha ha" 
+        intervals [344]:
+            xmin = 348.288 
+            xmax = 348.887 
+            text = "" 
+        intervals [345]:
+            xmin = 348.887 
+            xmax = 354.762 
+            text = "e axsanyat noar hahatxala shela hi hi ba bidiyuk beemtsa hamats masait haxona" 
+        intervals [346]:
+            xmin = 354.762 
+            xmax = 357.837 
+            text = "" 
+        intervals [347]:
+            xmin = 357.837 
+            xmax = 357.9336318959397 
+            text = "e" 
+        intervals [348]:
+            xmin = 357.9336318959397 
+            xmax = 358.188 
+            text = "[M shu] [S en li]" 
+        intervals [349]:
+            xmin = 358.188 
+            xmax = 359.137 
+            text = "axsanyat noar" 
+        intervals [350]:
+            xmin = 359.137 
+            xmax = 360.212 
+            text = "az ze ani rotsa shetesamni" 
+        intervals [351]:
+            xmin = 360.212 
+            xmax = 360.438 
+            text = "" 
+        intervals [352]:
+            xmin = 360.438 
+            xmax = 360.538 
+            text = "ki" 
+        intervals [353]:
+            xmin = 360.538 
+            xmax = 361.038 
+            text = "[M ze axsany] [S rega az ma e]" 
+        intervals [354]:
+            xmin = 361.038 
+            xmax = 361.71531703513625 
+            text = "efo mit e sh" 
+        intervals [355]:
+            xmin = 361.71531703513625 
+            xmax = 361.938 
+            text = "[M hi tsr] [S tey]" 
+        intervals [356]:
+            xmin = 361.938 
+            xmax = 362.44084662214186 
+            text = "ixa lihyo" 
+        intervals [357]:
+            xmin = 362.44084662214186 
+            xmax = 362.59697324213045 
+            text = "[M ot] [S shte]" 
+        intervals [358]:
+            xmin = 362.59697324213045 
+            xmax = 363.462 
+            text = "ey etsbaot mitaxat lama" 
+        intervals [359]:
+            xmin = 363.462 
+            xmax = 364.012 
+            text = "[M lamasai] [S sait haxona]" 
+        intervals [360]:
+            xmin = 364.012 
+            xmax = 364.738 
+            text = "t haxona ken" 
+        intervals [361]:
+            xmin = 364.738 
+            xmax = 364.788 
+            text = "" 
+        intervals [362]:
+            xmin = 364.788 
+            xmax = 365.587 
+            text = "axsanyat noar" 
+        intervals [363]:
+            xmin = 365.587 
+            xmax = 369.038 
+            text = "" 
+        intervals [364]:
+            xmin = 369.038 
+            xmax = 369.462 
+            text = "okey" 
+        intervals [365]:
+            xmin = 369.462 
+            xmax = 369.5037339803322 
+            text = "" 
+        intervals [366]:
+            xmin = 369.5037339803322 
+            xmax = 372.788 
+            text = "yofi axshav ma sheanaxnu osim kaxa anaxnu hayinu bagina hatsiburit" 
+        intervals [367]:
+            xmin = 372.788 
+            xmax = 373.688 
+            text = "" 
+        intervals [368]:
+            xmin = 373.688 
+            xmax = 375.363 
+            text = "anaxnu em" 
+        intervals [369]:
+            xmin = 375.363 
+            xmax = 375.788 
+            text = "" 
+        intervals [370]:
+            xmin = 375.788 
+            xmax = 382.462 
+            text = "mamshixim et hakav tipa tipa lekivun e yemina lagina hatsiburit keilu beerex hakav tsarix lehagia ad lanun" 
+        intervals [371]:
+            xmin = 382.462 
+            xmax = 382.788 
+            text = "" 
+        intervals [372]:
+            xmin = 382.788 
+            xmax = 384.063 
+            text = "shel hagina aval meal" 
+        intervals [373]:
+            xmin = 384.063 
+            xmax = 384.563 
+            text = "mm" 
+        intervals [374]:
+            xmin = 384.563 
+            xmax = 384.813 
+            text = "" 
+        intervals [375]:
+            xmin = 384.813 
+            xmax = 387.212 
+            text = "veaz anaxnu mekifim et axsanyat hanoar" 
+        intervals [376]:
+            xmin = 387.212 
+            xmax = 387.4427803964464 
+            text = "" 
+        intervals [377]:
+            xmin = 387.4427803964464 
+            xmax = 390.22332242229334 
+            text = "zot omeret olim meal ham e efo shekatuv axsanyat hanoa" 
+        intervals [378]:
+            xmin = 390.22332242229334 
+            xmax = 390.413 
+            text = "[M ar] [S mi]" 
+        intervals [379]:
+            xmin = 390.413 
+            xmax = 390.887 
+            text = "smol" 
+        intervals [380]:
+            xmin = 390.887 
+            xmax = 391.363 
+            text = "" 
+        intervals [381]:
+            xmin = 391.363 
+            xmax = 394.488 
+            text = "e bahatxala mismol axar kax anaxnu nihye meal" 
+        intervals [382]:
+            xmin = 394.488 
+            xmax = 396.238 
+            text = "hakav over bena leven hamasait haxona" 
+        intervals [383]:
+            xmin = 396.238 
+            xmax = 396.988 
+            text = "" 
+        intervals [384]:
+            xmin = 396.988 
+            xmax = 398.563 
+            text = "e aval a mamash tsamud eleha" 
+        intervals [385]:
+            xmin = 398.563 
+            xmax = 398.837 
+            text = "" 
+        intervals [386]:
+            xmin = 398.837 
+            xmax = 398.887 
+            text = "l" 
+        intervals [387]:
+            xmin = 398.887 
+            xmax = 399.163 
+            text = "[M kima] [S laaxsa]" 
+        intervals [388]:
+            xmin = 399.163 
+            xmax = 399.488 
+            text = "nya" 
+        intervals [389]:
+            xmin = 399.488 
+            xmax = 399.5298646262366 
+            text = "" 
+        intervals [390]:
+            xmin = 399.5298646262366 
+            xmax = 399.712 
+            text = "ken" 
+        intervals [391]:
+            xmin = 399.712 
+            xmax = 401.538 
+            text = "" 
+        intervals [392]:
+            xmin = 401.538 
+            xmax = 405.837 
+            text = "beseder veod lo lehamshix ota lemata ani axshav hanekudat tsiyun habaa ze telefon tsiburi" 
+        intervals [393]:
+            xmin = 405.837 
+            xmax = 406.938 
+            text = "" 
+        intervals [394]:
+            xmin = 406.938 
+            xmax = 407.313 
+            text = "e ye" 
+        intervals [395]:
+            xmin = 407.313 
+            xmax = 407.84970999994727 
+            text = "[M yesh lax] [S esh li hu]" 
+        intervals [396]:
+            xmin = 407.84970999994727 
+            xmax = 409.238 
+            text = "u yoter namux mehaagam hamizraxi" 
+        intervals [397]:
+            xmin = 409.238 
+            xmax = 409.413 
+            text = "[M bi] [S tsad y]" 
+        intervals [398]:
+            xmin = 409.413 
+            xmax = 410.113 
+            text = "yamin shel hadaf" 
+        intervals [399]:
+            xmin = 410.113 
+            xmax = 411.087 
+            text = "bidiyuk" 
+        intervals [400]:
+            xmin = 411.087 
+            xmax = 411.5122598642136 
+            text = "" 
+        intervals [401]:
+            xmin = 411.5122598642136 
+            xmax = 411.980491690575 
+            text = "[M zot ome] [S mesuxa]" 
+        intervals [402]:
+            xmin = 411.980491690575 
+            xmax = 412.4799123717495 
+            text = "a yesh lax" 
+        intervals [403]:
+            xmin = 412.4799123717495 
+            xmax = 413.113 
+            text = "" 
+        intervals [404]:
+            xmin = 413.113 
+            xmax = 414.0994235802053 
+            text = "lo en li mesuxa" 
+        intervals [405]:
+            xmin = 414.0994235802053 
+            xmax = 414.512 
+            text = "okey" 
+        intervals [406]:
+            xmin = 414.512 
+            xmax = 414.913 
+            text = "" 
+        intervals [407]:
+            xmin = 414.913 
+            xmax = 415.363 
+            text = "axshav" 
+        intervals [408]:
+            xmin = 415.363 
+            xmax = 416.212 
+            text = "" 
+        intervals [409]:
+            xmin = 416.212 
+            xmax = 420.587 
+            text = "beetsem im anaxnu m e ben axsanyat noar latelefon hatsiburi" 
+        intervals [410]:
+            xmin = 420.587 
+            xmax = 420.863 
+            text = "" 
+        intervals [411]:
+            xmin = 420.863 
+            xmax = 423.538 
+            text = "ze ze nimtsa mealaxson lemata gam etslex" 
+        intervals [412]:
+            xmin = 423.538 
+            xmax = 423.788 
+            text = "ken" 
+        intervals [413]:
+            xmin = 423.788 
+            xmax = 424.438 
+            text = "" 
+        intervals [414]:
+            xmin = 424.438 
+            xmax = 424.813 
+            text = "okey" 
+        intervals [415]:
+            xmin = 424.813 
+            xmax = 425.163 
+            text = "" 
+        intervals [416]:
+            xmin = 425.163 
+            xmax = 432.587 
+            text = "beetsem anaxnu tsrixim keilu laasot kav yashar aval od paam anaxnu lo nogim batelefon hatsiburi anaxnu moridim meaxsanyat noar kav" 
+        intervals [417]:
+            xmin = 432.587 
+            xmax = 433.188 
+            text = "" 
+        intervals [418]:
+            xmin = 433.188 
+            xmax = 435.563 
+            text = "ve e ovrim mitaxat latelefon hatsiburi" 
+        intervals [419]:
+            xmin = 435.563 
+            xmax = 438.087 
+            text = "" 
+        intervals [420]:
+            xmin = 438.087 
+            xmax = 438.538 
+            text = "yofi" 
+        intervals [421]:
+            xmin = 438.538 
+            xmax = 438.938 
+            text = "" 
+        intervals [422]:
+            xmin = 438.938 
+            xmax = 443.563 
+            text = "axshav anaxnu axar kax ovrim mi e miyemino mamshixim et hakav miyemino" 
+        intervals [423]:
+            xmin = 443.563 
+            xmax = 443.962 
+            text = "" 
+        intervals [424]:
+            xmin = 443.962 
+            xmax = 444.512 
+            text = "velea" 
+        intervals [425]:
+            xmin = 444.512 
+            xmax = 445.063 
+            text = "" 
+        intervals [426]:
+            xmin = 445.063 
+            xmax = 447.962 
+            text = "rega axshav ani rotsa ladaat im yesh lax biktat bots" 
+        intervals [427]:
+            xmin = 447.962 
+            xmax = 448.0783410900779 
+            text = "" 
+        intervals [428]:
+            xmin = 448.0783410900779 
+            xmax = 448.387 
+            text = "lo" 
+        intervals [429]:
+            xmin = 448.387 
+            xmax = 448.538 
+            text = "" 
+        intervals [430]:
+            xmin = 448.538 
+            xmax = 448.712 
+            text = "lo" 
+        intervals [431]:
+            xmin = 448.712 
+            xmax = 449.3704306519566 
+            text = "" 
+        intervals [432]:
+            xmin = 449.3704306519566 
+            xmax = 451.788 
+            text = "az im at tikxi et hatelefon hatsiburi" 
+        intervals [433]:
+            xmin = 451.788 
+            xmax = 452.488 
+            text = "" 
+        intervals [434]:
+            xmin = 452.488 
+            xmax = 453.288 
+            text = "em" 
+        intervals [435]:
+            xmin = 453.288 
+            xmax = 454.438 
+            text = "" 
+        intervals [436]:
+            xmin = 454.438 
+            xmax = 456.262 
+            text = "e shtey ne e etsbaot" 
+        intervals [437]:
+            xmin = 456.262 
+            xmax = 456.637 
+            text = "" 
+        intervals [438]:
+            xmin = 456.637 
+            xmax = 457.313 
+            text = "mealav" 
+        intervals [439]:
+            xmin = 457.313 
+            xmax = 457.688 
+            text = "" 
+        intervals [440]:
+            xmin = 457.688 
+            xmax = 458.063 
+            text = "ve" 
+        intervals [441]:
+            xmin = 458.063 
+            xmax = 458.413 
+            text = "" 
+        intervals [442]:
+            xmin = 458.413 
+            xmax = 460.913 
+            text = "tipale twist leyamin ze biktat bots" 
+        intervals [443]:
+            xmin = 460.913 
+            xmax = 461.087 
+            text = "" 
+        intervals [444]:
+            xmin = 461.087 
+            xmax = 462.29489142469043 
+            text = "tixtevi biktat bots" 
+        intervals [445]:
+            xmin = 462.29489142469043 
+            xmax = 464.762 
+            text = "" 
+        intervals [446]:
+            xmin = 464.762 
+            xmax = 465.238 
+            text = "mm" 
+        intervals [447]:
+            xmin = 465.238 
+            xmax = 465.663 
+            text = "" 
+        intervals [448]:
+            xmin = 465.663 
+            xmax = 469.913 
+            text = "axshav hamaslul over amarnu hayinu miyamin latelefon hatsiburi" 
+        intervals [449]:
+            xmin = 469.913 
+            xmax = 470.262 
+            text = "" 
+        intervals [450]:
+            xmin = 470.262 
+            xmax = 474.2667734978512 
+            text = "anaxnu ovrim mismol labiktat bots aval lo mamash tsmudim elav" 
+        intervals [451]:
+            xmin = 474.2667734978512 
+            xmax = 476.538 
+            text = "" 
+        intervals [452]:
+            xmin = 476.538 
+            xmax = 476.837 
+            text = "ken" 
+        intervals [453]:
+            xmin = 476.837 
+            xmax = 477.288 
+            text = "" 
+        intervals [454]:
+            xmin = 477.288 
+            xmax = 477.512 
+            text = "okey" 
+        intervals [455]:
+            xmin = 477.512 
+            xmax = 477.863 
+            text = "" 
+        intervals [456]:
+            xmin = 477.863 
+            xmax = 480.738 
+            text = "veaz anaxnu beetsem mamshixim em" 
+        intervals [457]:
+            xmin = 480.738 
+            xmax = 481.012 
+            text = "" 
+        intervals [458]:
+            xmin = 481.012 
+            xmax = 482.887 
+            text = "naxon yesh lanu et haagam hamizraxi" 
+        intervals [459]:
+            xmin = 482.887 
+            xmax = 483.288 
+            text = "" 
+        intervals [460]:
+            xmin = 483.288 
+            xmax = 483.488 
+            text = "ken" 
+        intervals [461]:
+            xmin = 483.488 
+            xmax = 483.762 
+            text = "" 
+        intervals [462]:
+            xmin = 483.762 
+            xmax = 485.837 
+            text = "ben ha a ani medaberet al ha" 
+        intervals [463]:
+            xmin = 485.837 
+            xmax = 486.063 
+            text = "" 
+        intervals [464]:
+            xmin = 486.063 
+            xmax = 491.762 
+            text = "ktsavot hataxtonim shelo ben hatshuptshik ben hak e hakatse hayemani lakatse hasmali beerex bekav haxetsi" 
+        intervals [465]:
+            xmin = 491.762 
+            xmax = 492.462 
+            text = "" 
+        intervals [466]:
+            xmin = 492.462 
+            xmax = 497.887 
+            text = "beseder im ani mamshixa et hamaslul ani keilu ve keilu keilu hayiti mamshixa veola al haagam hamizraxi" 
+        intervals [467]:
+            xmin = 497.887 
+            xmax = 498.238 
+            text = "" 
+        intervals [468]:
+            xmin = 498.238 
+            xmax = 500.012 
+            text = "az keilu hayiti xotsa oto lexetsi" 
+        intervals [469]:
+            xmin = 500.012 
+            xmax = 501.012 
+            text = "" 
+        intervals [470]:
+            xmin = 501.012 
+            xmax = 502.863 
+            text = "paxot o yoter ze hakav shel hamaslul" 
+        intervals [471]:
+            xmin = 502.863 
+            xmax = 503.563 
+            text = "" 
+        intervals [472]:
+            xmin = 503.563 
+            xmax = 508.063 
+            text = "aval at lo xotsa oto at megia ad keilu lagada shelo ktsat eze x" 
+        intervals [473]:
+            xmin = 508.063 
+            xmax = 509.087 
+            text = "" 
+        intervals [474]:
+            xmin = 509.087 
+            xmax = 512.112 
+            text = "kama milimeter lifney hagada vemamshixa lenekudat hasiyum" 
+        intervals [475]:
+            xmin = 512.112 
+            xmax = 514.063 
+            text = "" 
+        intervals [476]:
+            xmin = 514.063 
+            xmax = 514.513 
+            text = "e o" 
+        intervals [477]:
+            xmin = 514.513 
+            xmax = 514.787071064679 
+            text = "[M shuv] [S key]" 
+        intervals [478]:
+            xmin = 514.787071064679 
+            xmax = 515.638 
+            text = "efo nekudat hasiyum" 
+        intervals [479]:
+            xmin = 515.638 
+            xmax = 516.212 
+            text = "" 
+        intervals [480]:
+            xmin = 516.212 
+            xmax = 517.163 
+            text = "en lax nekudat siyum" 
+        intervals [481]:
+            xmin = 517.163 
+            xmax = 517.237 
+            text = "[M m] [S e]" 
+        intervals [482]:
+            xmin = 517.237 
+            xmax = 517.587 
+            text = "en li nekudat" 
+        intervals [483]:
+            xmin = 517.587 
+            xmax = 517.837 
+            text = "[M az] [S siyum]" 
+        intervals [484]:
+            xmin = 517.837 
+            xmax = 518.712 
+            text = "az bo nixtov ota" 
+        intervals [485]:
+            xmin = 518.712 
+            xmax = 519.038 
+            text = "" 
+        intervals [486]:
+            xmin = 519.038 
+            xmax = 520.212 
+            text = "haagam hamizraxi" 
+        intervals [487]:
+            xmin = 520.212 
+            xmax = 520.587 
+            text = "" 
+        intervals [488]:
+            xmin = 520.587 
+            xmax = 523.112 
+            text = "hatshuptshik ha hasmali shelo lemata" 
+        intervals [489]:
+            xmin = 523.112 
+            xmax = 523.788 
+            text = "" 
+        intervals [490]:
+            xmin = 523.788 
+            xmax = 525.837 
+            text = "a m a ken blita has" 
+        intervals [491]:
+            xmin = 525.837 
+            xmax = 526.763 
+            text = "[M hablita ke] [S malit hataxtona ze]" 
+        intervals [492]:
+            xmin = 526.763 
+            xmax = 529.938 
+            text = "en veod lokxim eze etsba kaxa bealaxson lemata" 
+        intervals [493]:
+            xmin = 529.938 
+            xmax = 530.112 
+            text = "" 
+        intervals [494]:
+            xmin = 530.112 
+            xmax = 531.638 
+            text = "taasi lax iks nekudat hasiyum" 
+        intervals [495]:
+            xmin = 531.638 
+            xmax = 533.763 
+            text = "" 
+        intervals [496]:
+            xmin = 533.763 
+            xmax = 536.288 
+            text = "axshav beetsem mehatelefon hatsiburi" 
+        intervals [497]:
+            xmin = 536.288 
+            xmax = 536.538 
+            text = "" 
+        intervals [498]:
+            xmin = 536.538 
+            xmax = 539.862 
+            text = "lo alinu kav alaxson yashar lenekudat hasiyum ela asinu min" 
+        intervals [499]:
+            xmin = 539.862 
+            xmax = 540.388 
+            text = "e smo" 
+        intervals [500]:
+            xmin = 540.388 
+            xmax = 540.837 
+            text = "[M tiyul] [S ola ve]" 
+        intervals [501]:
+            xmin = 540.837 
+            xmax = 541.413 
+            text = "kaze ken" 
+        intervals [502]:
+            xmin = 541.413 
+            xmax = 541.7880411088887 
+            text = "[M smo] [S mm]" 
+        intervals [503]:
+            xmin = 541.7880411088887 
+            xmax = 546.087 
+            text = "la veaz anaxnu ktsat meshikim laagal ham laagam hamerkazi hamizraxi" 
+        intervals [504]:
+            xmin = 546.087 
+            xmax = 546.263 
+            text = "" 
+        intervals [505]:
+            xmin = 546.263 
+            xmax = 547.538 
+            text = "lagada hataxtona shelo" 
+        intervals [506]:
+            xmin = 547.538 
+            xmax = 547.737 
+            text = "" 
+        intervals [507]:
+            xmin = 547.737 
+            xmax = 547.8227705820184 
+            text = "m" 
+        intervals [508]:
+            xmin = 547.8227705820184 
+            xmax = 548.163 
+            text = "[M ktsat ov] [S mm]" 
+        intervals [509]:
+            xmin = 548.163 
+            xmax = 549.962 
+            text = "vrim leyado vemegiim lenekudat hasiyum" 
+        intervals [510]:
+            xmin = 549.962 
+            xmax = 550.538 
+            text = "okey yesh" 
+        intervals [511]:
+            xmin = 550.538 
+            xmax = 551.013 
+            text = "" 
+        intervals [512]:
+            xmin = 551.013 
+            xmax = 551.313 
+            text = "yala" 
+        intervals [513]:
+            xmin = 551.313 
+            xmax = 551.788 
+            text = "" 
+        intervals [514]:
+            xmin = 551.788 
+            xmax = 552.638 
+            text = "har habayit beyadenu" 
+        intervals [515]:
+            xmin = 552.638 
+            xmax = 552.837 
+            text = "" 
+        intervals [516]:
+            xmin = 552.837 
+            xmax = 552.987 
+            text = "<giggle>" 
+        intervals [517]:
+            xmin = 552.987 
+            xmax = 553.462 
+            text = "" 
+        intervals [518]:
+            xmin = 553.462 
+            xmax = 553.712 
+            text = "tiri" 
+        intervals [519]:
+            xmin = 553.712 
+            xmax = 553.938 
+            text = "[M ma ya] [S <giggle>]" 
+        intervals [520]:
+            xmin = 553.938 
+            xmax = 554.263 
+            text = "tsa la" 
+        intervals [521]:
+            xmin = 554.263 
+            xmax = 555.837 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "leader" 
+        xmin = 0 
+        xmax = 554.263 
+        intervals: size = 188 
+        intervals [1]:
+            xmin = 2.037073655 
+            xmax = 2.282708042 
+            text = "tov" 
+        intervals [2]:
+            xmin = 4.388 
+            xmax = 5.106497227 
+            text = "hay shlomit" 
+        intervals [3]:
+            xmin = 7.063 
+            xmax = 9.537 
+            text = "e nira li sheli yesh maslul al hamapa" 
+        intervals [4]:
+            xmin = 10.137 
+            xmax = 10.813 
+            text = "em" 
+        intervals [5]:
+            xmin = 11.038 
+            xmax = 14.788 
+            text = "yesh li po e ani agid lax ma yesh etsli tagidi li ma yesh etslex veaz" 
+        intervals [6]:
+            xmin = 15.387 
+            xmax = 16.788 
+            text = "yesh e" 
+        intervals [7]:
+            xmin = 17.613 
+            xmax = 18.587 
+            text = "hadaf ze ey arba" 
+        intervals [8]:
+            xmin = 18.813 
+            xmax = 25.663 
+            text = "yesh lo keilu misgeret betox hamisgeret yesh kol miney nekudot nagid moadon yaxtot xava xaklait masait xona" 
+        intervals [9]:
+            xmin = 26.462 
+            xmax = 29.613 
+            text = "e xanut tsilum harisot minzar gina tsibur" 
+        intervals [10]:
+            xmin = 30.238 
+            xmax = 30.663 
+            text = "yeshno" 
+        intervals [11]:
+            xmin = 31.01897473 
+            xmax = 32.237 
+            text = "yofi az yesh li maslul" 
+        intervals [12]:
+            xmin = 33.737 
+            xmax = 35.813 
+            text = "e az nekudat hahatxala" 
+        intervals [13]:
+            xmin = 36.388 
+            xmax = 37.862 
+            text = "e hi nimtset" 
+        intervals [14]:
+            xmin = 38.288 
+            xmax = 39.27891828 
+            text = "beerex" 
+        intervals [15]:
+            xmin = 40.33697162 
+            xmax = 41.0478512 
+            text = "tsh tsh tsh" 
+        intervals [16]:
+            xmin = 42.313 
+            xmax = 46.462 
+            text = "mamash e ani yodaat santimeter meal xanut hatsilum" 
+        intervals [17]:
+            xmin = 47.112 
+            xmax = 48.46289816 
+            text = "beseder keilu meal xanut hatsil" 
+        intervals [18]:
+            xmin = 49.513 
+            xmax = 50.038 
+            text = "yafe" 
+        intervals [19]:
+            xmin = 50.763 
+            xmax = 51.30090581 
+            text = "axshav" 
+        intervals [20]:
+            xmin = 51.663 
+            xmax = 52.138 
+            text = "em" 
+        intervals [21]:
+            xmin = 52.513 
+            xmax = 53.813 
+            text = "od al tas a tesamni" 
+        intervals [22]:
+            xmin = 54.112 
+            xmax = 57.688 
+            text = "ma sheani aase ani eten kodem kol ezeshehu skirat al kazoti" 
+        intervals [23]:
+            xmin = 58.013 
+            xmax = 59.788 
+            text = "veaz nered lerezolutsyot e ze" 
+        intervals [24]:
+            xmin = 60.013 
+            xmax = 60.288 
+            text = "beseder" 
+        intervals [25]:
+            xmin = 60.788 
+            xmax = 66.188 
+            text = "beikaron hamaslul e nekudat yesh lax et nekudat hasiyum hu ktsat leyad haagam hamizraxi" 
+        intervals [26]:
+            xmin = 66.513 
+            xmax = 67.138 
+            text = "mofia lax" 
+        intervals [27]:
+            xmin = 67.93345525 
+            xmax = 68.537 
+            text = "tistakli le" 
+        intervals [28]:
+            xmin = 68.987 
+            xmax = 69.338 
+            text = "okey" 
+        intervals [29]:
+            xmin = 69.66515723 
+            xmax = 70.912 
+            text = "at roa et haagam hamizraxi" 
+        intervals [30]:
+            xmin = 71.20502509 
+            xmax = 71.487 
+            text = "lemala" 
+        intervals [31]:
+            xmin = 71.79663682 
+            xmax = 73.013 
+            text = "okey az mamash e" 
+        intervals [32]:
+            xmin = 73.72797586 
+            xmax = 74.362 
+            text = "naxon" 
+        intervals [33]:
+            xmin = 74.71745535 
+            xmax = 82.037 
+            text = "az e yesh lo kodkod e e kaze at yodaat yesh lo tsura muzara kazot veyesh bapina hasmalit min kodkod kaze" 
+        intervals [34]:
+            xmin = 83.263 
+            xmax = 83.313 
+            text = "a" 
+        intervals [35]:
+            xmin = 83.862 
+            xmax = 84.862 
+            text = "smalit lemata" 
+        intervals [36]:
+            xmin = 84.98334204 
+            xmax = 85.862 
+            text = "slixa shelo" 
+        intervals [37]:
+            xmin = 86.58456782 
+            xmax = 86.862 
+            text = "naxon" 
+        intervals [38]:
+            xmin = 87.16759892 
+            xmax = 87.537 
+            text = "az" 
+        intervals [39]:
+            xmin = 87.688 
+            xmax = 92.487 
+            text = "gam xatsi santimeter leyad ze yesh kmo sheyesh iks nekudat hatxala shama tihye nekudat hasiyum" 
+        intervals [40]:
+            xmin = 94.04797135 
+            xmax = 96.013 
+            text = "mismol latshuptshik hasmali" 
+        intervals [41]:
+            xmin = 96.787 
+            xmax = 97.263 
+            text = "hataxton" 
+        intervals [42]:
+            xmin = 97.73522291 
+            xmax = 100.613 
+            text = "beseder axshav ze ze beetsem nekudat hasiyum" 
+        intervals [43]:
+            xmin = 100.938 
+            xmax = 104.662 
+            text = "kshehamaslul atsmo hu maslul maagal hu mit hu lo maagali" 
+        intervals [44]:
+            xmin = 105.037 
+            xmax = 106.438 
+            text = "hu kav e akum" 
+        intervals [45]:
+            xmin = 106.6548539 
+            xmax = 108.563 
+            text = "zot omeret ze lo kavim shvurim yesharim" 
+        intervals [46]:
+            xmin = 108.967358 
+            xmax = 113.988 
+            text = "vehu mitpatel ben e e kol paam hu nogea be e over leyad" 
+        intervals [47]:
+            xmin = 114.2737308 
+            xmax = 115.138 
+            text = "e atarim shonim" 
+        intervals [48]:
+            xmin = 116.1840817 
+            xmax = 121.138 
+            text = "az ani e b bo naase kaxa begadol veaz ani enase gam lehagid lax ex ze nira" 
+        intervals [49]:
+            xmin = 122.513 
+            xmax = 123.263 
+            text = "e e nek" 
+        intervals [50]:
+            xmin = 123.638 
+            xmax = 125.938 
+            text = "e nekudat hahatxala yordim mixanut hatsilum" 
+        intervals [51]:
+            xmin = 126.662 
+            xmax = 128.713 
+            text = "yordim yordim yordim lamasait haxona" 
+        intervals [52]:
+            xmin = 129.0972695 
+            xmax = 136.463 
+            text = "axshav mitaxat lamasait haxona keilu osim e vi kaze mitaxteha keilu ze min kaze lokxim ota besal keilu at metsayeret sal mitaxteha" 
+        intervals [53]:
+            xmin = 137.887 
+            xmax = 138.1142208 
+            text = "ken" 
+        intervals [54]:
+            xmin = 140.287 
+            xmax = 141.262 
+            text = "a masa" 
+        intervals [55]:
+            xmin = 142.262 
+            xmax = 143.662 
+            text = "lo az yesh od masait xona" 
+        intervals [56]:
+            xmin = 143.912 
+            xmax = 145.813 
+            text = "ki yesh li gam masait xona leyad haagam" 
+        intervals [57]:
+            xmin = 147.963 
+            xmax = 148.088 
+            text = "m" 
+        intervals [58]:
+            xmin = 150.588 
+            xmax = 152.012 
+            text = "a okey az boi tiri" 
+        intervals [59]:
+            xmin = 152.537 
+            xmax = 153.0136922 
+            text = "em" 
+        intervals [60]:
+            xmin = 153.1788727 
+            xmax = 155.956209 
+            text = "mitaxat lexanut hatsilum kvar naase nun tsadik" 
+        intervals [61]:
+            xmin = 156.313 
+            xmax = 157.262 
+            text = "e tasimi" 
+        intervals [62]:
+            xmin = 157.438 
+            xmax = 159.213 
+            text = "e shtey etsbaot mitaxat" 
+        intervals [63]:
+            xmin = 159.988 
+            xmax = 162.438 
+            text = "vetixtevi masait xona yesh od masait xona" 
+        intervals [64]:
+            xmin = 165.238 
+            xmax = 170.363 
+            text = "axshav minekudat hahatxana anaxnu yordim veme keilu misaviv lamasait haxona" 
+        intervals [65]:
+            xmin = 174.713 
+            xmax = 180.262 
+            text = "ken ken az ani o minekudat hahatxala derex anaxnu ovrim hakav over mismol lexanut hatsilum" 
+        intervals [66]:
+            xmin = 181.069373 
+            xmax = 183.262 
+            text = "mismol lamaxan lamasait haxona" 
+        intervals [67]:
+            xmin = 184.387 
+            xmax = 187.863 
+            text = "ole xazara miyamin lamasait haxona laxava haxaklait" 
+        intervals [68]:
+            xmin = 188.012 
+            xmax = 189.887 
+            text = "vekeilu ole meal haxava haxaklait" 
+        intervals [69]:
+            xmin = 191.537 
+            xmax = 193.588 
+            text = "okey axshav mexava xaklait" 
+        intervals [70]:
+            xmin = 194.063 
+            xmax = 194.762 
+            text = "em" 
+        intervals [71]:
+            xmin = 196.262 
+            xmax = 201.713 
+            text = "hu holex e hak beetsem hamaslul leharisot haminzar aval ze lo kav yashar" 
+        intervals [72]:
+            xmin = 201.912 
+            xmax = 204.613 
+            text = "ze lo at yodaat ben shtey nekudot over kav yashar" 
+        intervals [73]:
+            xmin = 205.4122634 
+            xmax = 208.262 
+            text = "ela anaxnu nikax em" 
+        intervals [74]:
+            xmin = 210.412 
+            xmax = 211.057881 
+            text = "texef" 
+        intervals [75]:
+            xmin = 211.363 
+            xmax = 213.412 
+            text = "beetsem ze yotse mashehu kaze" 
+        intervals [76]:
+            xmin = 213.588 
+            xmax = 214.113 
+            text = "tistakli" 
+        intervals [77]:
+            xmin = 214.2430524 
+            xmax = 216.438 
+            text = "keilu kaxa kmo beten keilu yesh lo beten" 
+        intervals [78]:
+            xmin = 217.037 
+            xmax = 219.1570784 
+            text = "aval ani im ani ehye meduyeket" 
+        intervals [79]:
+            xmin = 219.990571 
+            xmax = 220.988 
+            text = "beten yemina" 
+        intervals [80]:
+            xmin = 221.363 
+            xmax = 224.037 
+            text = "rega bete mehaxava haxaklait tikxi yemina" 
+        intervals [81]:
+            xmin = 224.3977247 
+            xmax = 226.287 
+            text = "mashehu kmo em" 
+        intervals [82]:
+            xmin = 226.762 
+            xmax = 228.037 
+            text = "roxav shel kaf yad" 
+        intervals [83]:
+            xmin = 229.588 
+            xmax = 230.012 
+            text = "kaxa" 
+        intervals [84]:
+            xmin = 231.963 
+            xmax = 233.338 
+            text = "li en muzeon tayis" 
+        intervals [85]:
+            xmin = 234.012 
+            xmax = 235.412 
+            text = "yesh lax arizot minzar" 
+        intervals [86]:
+            xmin = 237.287 
+            xmax = 240.738 
+            text = "naxon bidiyuk az nira li e nira li sheanaxnu" 
+        intervals [87]:
+            xmin = 241.188 
+            xmax = 243.338 
+            text = "ani mitalemet mehatayis ki en li tayis" 
+        intervals [88]:
+            xmin = 244.512 
+            xmax = 248.338 
+            text = "e veani tsrixa lehagia beetsem mehaxava haxaklait leharisot haminzar" 
+        intervals [89]:
+            xmin = 248.713 
+            xmax = 251.537 
+            text = "aval shuv lo derex kav yashar ela min beten" 
+        intervals [90]:
+            xmin = 251.988 
+            xmax = 252.313 
+            text = "az" 
+        intervals [91]:
+            xmin = 252.537 
+            xmax = 254.213 
+            text = "anaxnu nikax keilu kav" 
+        intervals [92]:
+            xmin = 254.488 
+            xmax = 256.663 
+            text = "yemina vetipale tipale alaxson" 
+        intervals [93]:
+            xmin = 257.212 
+            xmax = 259.538 
+            text = "be beorex shel xamesh etsbaot" 
+        intervals [94]:
+            xmin = 262.712 
+            xmax = 265.837 
+            text = "veaz at me milemala shel harisot haminzar" 
+        intervals [95]:
+            xmin = 266.313 
+            xmax = 266.587 
+            text = "keilu" 
+        intervals [96]:
+            xmin = 266.887 
+            xmax = 267.938 
+            text = "em lo m" 
+        intervals [97]:
+            xmin = 269.413 
+            xmax = 270.712 
+            text = "bidiyuk mi" 
+        intervals [98]:
+            xmin = 270.837 
+            xmax = 272.637 
+            text = "bidiyuk veaz shuv lemala" 
+        intervals [99]:
+            xmin = 275.163 
+            xmax = 277.038 
+            text = "axshav yesh lax gina tsiburit" 
+        intervals [100]:
+            xmin = 278.438 
+            xmax = 278.7537732 
+            text = "okey" 
+        intervals [101]:
+            xmin = 279.113 
+            xmax = 280.0101792 
+            text = "mismol bidiyuk" 
+        intervals [102]:
+            xmin = 282.262 
+            xmax = 282.813 
+            text = "az li en" 
+        intervals [103]:
+            xmin = 282.938 
+            xmax = 284.038 
+            text = "li en agam maaravi" 
+        intervals [104]:
+            xmin = 285.262 
+            xmax = 286.9400777 
+            text = "ke lo ze beseder ze meanyen" 
+        intervals [105]:
+            xmin = 287.2691364 
+            xmax = 295.170558 
+            text = "aval ani agid lax etsli hagina hatsiburit hi nimtset mismol leharisot haminzar aval tipa lemala keilu tsaad lemala" 
+        intervals [106]:
+            xmin = 295.813 
+            xmax = 299.587 
+            text = "yofi az axshav ma sheanaxnu naase anaxnu namshix et hakav shel harisot haminzar" 
+        intervals [107]:
+            xmin = 300.087 
+            xmax = 304.2020109 
+            text = "ktsat keilu naase lo taltal lemata venaavor mismol lagina hatsiburit" 
+        intervals [108]:
+            xmin = 305.587 
+            xmax = 309.113 
+            text = "ken aval lo yashar mitaxat ela meharisot haminzar at keilu mamshixa" 
+        intervals [109]:
+            xmin = 309.462 
+            xmax = 312.113 
+            text = "e morida afilu tipa keilu sheyesh lax gal kaze" 
+        intervals [110]:
+            xmin = 313.438 
+            xmax = 315.313 
+            text = "veaz mismol lagina hatsiburit" 
+        intervals [111]:
+            xmin = 316.262 
+            xmax = 316.663 
+            text = "axshav" 
+        intervals [112]:
+            xmin = 317.113 
+            xmax = 319.663 
+            text = "meal hagina hatsiburit yesh li axsanyat noar" 
+        intervals [113]:
+            xmin = 323.887 
+            xmax = 326.859436 
+            text = "hageder yetedot hi krova letsad smol shel hadaf" 
+        intervals [114]:
+            xmin = 327.563 
+            xmax = 327.863 
+            text = "okey" 
+        intervals [115]:
+            xmin = 327.988 
+            xmax = 331.488 
+            text = "az boi yesh lanu od nun tsadik yesh lax masait xona leyad e" 
+        intervals [116]:
+            xmin = 332.0937869 
+            xmax = 333.038 
+            text = "az ktsat mita" 
+        intervals [117]:
+            xmin = 334.587 
+            xmax = 335.6408141 
+            text = "naxon bidiyuk" 
+        intervals [118]:
+            xmin = 336.0668612 
+            xmax = 336.363 
+            text = "az" 
+        intervals [119]:
+            xmin = 336.988 
+            xmax = 339.163 
+            text = "mehamasait haxona kxi et haemtsa shela" 
+        intervals [120]:
+            xmin = 340.563 
+            xmax = 341.313 
+            text = "toridi" 
+        intervals [121]:
+            xmin = 341.488 
+            xmax = 343.663 
+            text = "e kav beorex shel shtey etsbaot" 
+        intervals [122]:
+            xmin = 344.712 
+            xmax = 348.288 
+            text = "ve e hakatse bakav ha ha" 
+        intervals [123]:
+            xmin = 348.887 
+            xmax = 354.762 
+            text = "e axsanyat noar hahatxala shela hi hi ba bidiyuk beemtsa hamats masait haxona" 
+        intervals [124]:
+            xmin = 357.9336319 
+            xmax = 358.188 
+            text = "shu" 
+        intervals [125]:
+            xmin = 359.137 
+            xmax = 360.212 
+            text = "az ze ani rotsa shetesamni" 
+        intervals [126]:
+            xmin = 360.438 
+            xmax = 361.038 
+            text = "ki ze axsany" 
+        intervals [127]:
+            xmin = 361.715317 
+            xmax = 362.5969732 
+            text = "hi tsrixa lihyot" 
+        intervals [128]:
+            xmin = 363.462 
+            xmax = 364.738 
+            text = "lamasait haxona ken" 
+        intervals [129]:
+            xmin = 369.503734 
+            xmax = 372.788 
+            text = "yofi axshav ma sheanaxnu osim kaxa anaxnu hayinu bagina hatsiburit" 
+        intervals [130]:
+            xmin = 373.688 
+            xmax = 375.363 
+            text = "anaxnu em" 
+        intervals [131]:
+            xmin = 375.788 
+            xmax = 382.462 
+            text = "mamshixim et hakav tipa tipa lekivun e yemina lagina hatsiburit keilu beerex hakav tsarix lehagia ad lanun" 
+        intervals [132]:
+            xmin = 382.788 
+            xmax = 384.063 
+            text = "shel hagina aval meal" 
+        intervals [133]:
+            xmin = 384.813 
+            xmax = 387.212 
+            text = "veaz anaxnu mekifim et axsanyat hanoar" 
+        intervals [134]:
+            xmin = 387.4427804 
+            xmax = 390.413 
+            text = "zot omeret olim meal ham e efo shekatuv axsanyat hanoar" 
+        intervals [135]:
+            xmin = 391.363 
+            xmax = 394.488 
+            text = "e bahatxala mismol axar kax anaxnu nihye meal" 
+        intervals [136]:
+            xmin = 396.988 
+            xmax = 398.563 
+            text = "e aval a mamash tsamud eleha" 
+        intervals [137]:
+            xmin = 398.887 
+            xmax = 399.163 
+            text = "kima" 
+        intervals [138]:
+            xmin = 399.5298646 
+            xmax = 399.712 
+            text = "ken" 
+        intervals [139]:
+            xmin = 401.538 
+            xmax = 405.837 
+            text = "beseder veod lo lehamshix ota lemata ani axshav hanekudat tsiyun habaa ze telefon tsiburi" 
+        intervals [140]:
+            xmin = 407.313 
+            xmax = 407.84971 
+            text = "yesh lax" 
+        intervals [141]:
+            xmin = 409.238 
+            xmax = 409.413 
+            text = "bi" 
+        intervals [142]:
+            xmin = 410.113 
+            xmax = 411.087 
+            text = "bidiyuk" 
+        intervals [143]:
+            xmin = 411.5122599 
+            xmax = 411.9804917 
+            text = "zot ome" 
+        intervals [144]:
+            xmin = 413.113 
+            xmax = 414.0994236 
+            text = "lo en li mesuxa" 
+        intervals [145]:
+            xmin = 414.913 
+            xmax = 415.363 
+            text = "axshav" 
+        intervals [146]:
+            xmin = 416.212 
+            xmax = 420.587 
+            text = "beetsem im anaxnu m e ben axsanyat noar latelefon hatsiburi" 
+        intervals [147]:
+            xmin = 420.863 
+            xmax = 423.538 
+            text = "ze ze nimtsa mealaxson lemata gam etslex" 
+        intervals [148]:
+            xmin = 424.438 
+            xmax = 424.813 
+            text = "okey" 
+        intervals [149]:
+            xmin = 425.163 
+            xmax = 432.587 
+            text = "beetsem anaxnu tsrixim keilu laasot kav yashar aval od paam anaxnu lo nogim batelefon hatsiburi anaxnu moridim meaxsanyat noar kav" 
+        intervals [150]:
+            xmin = 433.188 
+            xmax = 435.563 
+            text = "ve e ovrim mitaxat latelefon hatsiburi" 
+        intervals [151]:
+            xmin = 438.087 
+            xmax = 438.538 
+            text = "yofi" 
+        intervals [152]:
+            xmin = 438.938 
+            xmax = 443.563 
+            text = "axshav anaxnu axar kax ovrim mi e miyemino mamshixim et hakav miyemino" 
+        intervals [153]:
+            xmin = 445.063 
+            xmax = 447.962 
+            text = "rega axshav ani rotsa ladaat im yesh lax biktat bots" 
+        intervals [154]:
+            xmin = 448.538 
+            xmax = 448.712 
+            text = "lo" 
+        intervals [155]:
+            xmin = 449.3704307 
+            xmax = 451.788 
+            text = "az im at tikxi et hatelefon hatsiburi" 
+        intervals [156]:
+            xmin = 452.488 
+            xmax = 453.288 
+            text = "em" 
+        intervals [157]:
+            xmin = 454.438 
+            xmax = 456.262 
+            text = "e shtey ne e etsbaot" 
+        intervals [158]:
+            xmin = 456.637 
+            xmax = 457.313 
+            text = "mealav" 
+        intervals [159]:
+            xmin = 457.688 
+            xmax = 458.063 
+            text = "ve" 
+        intervals [160]:
+            xmin = 458.413 
+            xmax = 460.913 
+            text = "tipale twist leyamin ze biktat bots" 
+        intervals [161]:
+            xmin = 461.087 
+            xmax = 462.2948914 
+            text = "tixtevi biktat bots" 
+        intervals [162]:
+            xmin = 465.663 
+            xmax = 469.913 
+            text = "axshav hamaslul over amarnu hayinu miyamin latelefon hatsiburi" 
+        intervals [163]:
+            xmin = 470.262 
+            xmax = 474.2667735 
+            text = "anaxnu ovrim mismol labiktat bots aval lo mamash tsmudim elav" 
+        intervals [164]:
+            xmin = 477.288 
+            xmax = 477.512 
+            text = "okey" 
+        intervals [165]:
+            xmin = 477.863 
+            xmax = 480.738 
+            text = "veaz anaxnu beetsem mamshixim em" 
+        intervals [166]:
+            xmin = 481.012 
+            xmax = 482.887 
+            text = "naxon yesh lanu et haagam hamizraxi" 
+        intervals [167]:
+            xmin = 483.762 
+            xmax = 485.837 
+            text = "ben ha a ani medaberet al ha" 
+        intervals [168]:
+            xmin = 486.063 
+            xmax = 491.762 
+            text = "ktsavot hataxtonim shelo ben hatshuptshik ben hak e hakatse hayemani lakatse hasmali beerex bekav haxetsi" 
+        intervals [169]:
+            xmin = 492.462 
+            xmax = 497.887 
+            text = "beseder im ani mamshixa et hamaslul ani keilu ve keilu keilu hayiti mamshixa veola al haagam hamizraxi" 
+        intervals [170]:
+            xmin = 498.238 
+            xmax = 500.012 
+            text = "az keilu hayiti xotsa oto lexetsi" 
+        intervals [171]:
+            xmin = 501.012 
+            xmax = 502.863 
+            text = "paxot o yoter ze hakav shel hamaslul" 
+        intervals [172]:
+            xmin = 503.563 
+            xmax = 508.063 
+            text = "aval at lo xotsa oto at megia ad keilu lagada shelo ktsat eze x" 
+        intervals [173]:
+            xmin = 509.087 
+            xmax = 512.112 
+            text = "kama milimeter lifney hagada vemamshixa lenekudat hasiyum" 
+        intervals [174]:
+            xmin = 514.513 
+            xmax = 514.7870711 
+            text = "shuv" 
+        intervals [175]:
+            xmin = 516.212 
+            xmax = 517.237 
+            text = "en lax nekudat siyum" 
+        intervals [176]:
+            xmin = 517.587 
+            xmax = 518.712 
+            text = "az az bo nixtov ota" 
+        intervals [177]:
+            xmin = 519.038 
+            xmax = 520.212 
+            text = "haagam hamizraxi" 
+        intervals [178]:
+            xmin = 520.587 
+            xmax = 523.112 
+            text = "hatshuptshik ha hasmali shelo lemata" 
+        intervals [179]:
+            xmin = 525.837 
+            xmax = 529.938 
+            text = "hablita ken veod lokxim eze etsba kaxa bealaxson lemata" 
+        intervals [180]:
+            xmin = 530.112 
+            xmax = 531.638 
+            text = "taasi lax iks nekudat hasiyum" 
+        intervals [181]:
+            xmin = 533.763 
+            xmax = 536.288 
+            text = "axshav beetsem mehatelefon hatsiburi" 
+        intervals [182]:
+            xmin = 536.538 
+            xmax = 539.862 
+            text = "lo alinu kav alaxson yashar lenekudat hasiyum ela asinu min" 
+        intervals [183]:
+            xmin = 540.388 
+            xmax = 546.087 
+            text = "tiyul kaze ken smola veaz anaxnu ktsat meshikim laagal ham laagam hamerkazi hamizraxi" 
+        intervals [184]:
+            xmin = 546.263 
+            xmax = 547.538 
+            text = "lagada hataxtona shelo" 
+        intervals [185]:
+            xmin = 547.8227706 
+            xmax = 549.962 
+            text = "ktsat ovrim leyado vemegiim lenekudat hasiyum" 
+        intervals [186]:
+            xmin = 551.013 
+            xmax = 551.313 
+            text = "yala" 
+        intervals [187]:
+            xmin = 551.788 
+            xmax = 552.638 
+            text = "har habayit beyadenu" 
+        intervals [188]:
+            xmin = 553.462 
+            xmax = 554.263 
+            text = "tiri ma yatsa la" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "follower" 
+        xmin = 0 
+        xmax = 550.538 
+        intervals: size = 75 
+        intervals [1]:
+            xmin = 1.438 
+            xmax = 1.788 
+            text = "toda" 
+        intervals [2]:
+            xmin = 5.513 
+            xmax = 6.088 
+            text = "hay dafna" 
+        intervals [3]:
+            xmin = 29.18662402 
+            xmax = 29.863 
+            text = "kol ze yeshno" 
+        intervals [4]:
+            xmin = 30.863 
+            xmax = 31.01897473 
+            text = "ken" 
+        intervals [5]:
+            xmin = 33.563 
+            xmax = 33.737 
+            text = "ken" 
+        intervals [6]:
+            xmin = 48.087 
+            xmax = 49.663 
+            text = "a hine gam li yesh nekudat hatxala ken" 
+        intervals [7]:
+            xmin = 68.013 
+            xmax = 68.987 
+            text = "lo en li nekudat siyum" 
+        intervals [8]:
+            xmin = 71.08251811 
+            xmax = 71.20502509 
+            text = "ken" 
+        intervals [9]:
+            xmin = 72.487 
+            xmax = 73.162 
+            text = "yamin lemala" 
+        intervals [10]:
+            xmin = 82.94901198 
+            xmax = 83.713 
+            text = "smalit lemala" 
+        intervals [11]:
+            xmin = 85.862 
+            xmax = 86.138 
+            text = "ken" 
+        intervals [12]:
+            xmin = 92.4326294 
+            xmax = 94.04797135 
+            text = "xatsi santimeter mismol la" 
+        intervals [13]:
+            xmin = 96.313 
+            xmax = 97.813 
+            text = "hataxton ken beseder okey" 
+        intervals [14]:
+            xmin = 115.463 
+            xmax = 115.912 
+            text = "okey" 
+        intervals [15]:
+            xmin = 126.412 
+            xmax = 126.863 
+            text = "mm" 
+        intervals [16]:
+            xmin = 136.387 
+            xmax = 138.738 
+            text = "re yordim lamasait haxona etsli hi leyad haagam" 
+        intervals [17]:
+            xmin = 147.313 
+            xmax = 150.0477174 
+            text = "yesh li leyad xanut hatsilum xava xaklait vemoadon yaxtot" 
+        intervals [18]:
+            xmin = 159.387 
+            xmax = 159.813 
+            text = "mm" 
+        intervals [19]:
+            xmin = 164.338 
+            xmax = 164.588 
+            text = "ken" 
+        intervals [20]:
+            xmin = 173.213 
+            xmax = 174.512 
+            text = "rega xanut tsilum en lax po" 
+        intervals [21]:
+            xmin = 180.3774971 
+            xmax = 180.938 
+            text = "okey" 
+        intervals [22]:
+            xmin = 183.563 
+            xmax = 183.9900443 
+            text = "aha" 
+        intervals [23]:
+            xmin = 190.037 
+            xmax = 190.512 
+            text = "okey" 
+        intervals [24]:
+            xmin = 204.637 
+            xmax = 205.113 
+            text = "mm" 
+        intervals [25]:
+            xmin = 218.588 
+            xmax = 219.938 
+            text = "beten yamina o beten smola" 
+        intervals [26]:
+            xmin = 220.162 
+            xmax = 220.512 
+            text = "sheli" 
+        intervals [27]:
+            xmin = 224.238 
+            xmax = 224.713 
+            text = "aha" 
+        intervals [28]:
+            xmin = 229.537 
+            xmax = 231.162 
+            text = "ani overet miyamin lemuzeon hatayis" 
+        intervals [29]:
+            xmin = 235.588 
+            xmax = 237.287 
+            text = "harisot minzar yesh li beerex beemtsa hadaf" 
+        intervals [30]:
+            xmin = 243.637 
+            xmax = 244.063 
+            text = "okey" 
+        intervals [31]:
+            xmin = 261.538 
+            xmax = 263.3433815 
+            text = "okey veaz ani magia" 
+        intervals [32]:
+            xmin = 264.163 
+            xmax = 264.337 
+            text = "ani" 
+        intervals [33]:
+            xmin = 267.538 
+            xmax = 271.137 
+            text = "ani ani overet miyamin leharisot haminzar yamin sheli veaz shuv lemala" 
+        intervals [34]:
+            xmin = 274.512 
+            xmax = 274.962 
+            text = "okey" 
+        intervals [35]:
+            xmin = 277.637 
+            xmax = 277.887 
+            text = "ken" 
+        intervals [36]:
+            xmin = 278.438 
+            xmax = 278.913 
+            text = "mismol" 
+        intervals [37]:
+            xmin = 279.762 
+            xmax = 280.837 
+            text = "meal haagam hamaaravi" 
+        intervals [38]:
+            xmin = 284.413 
+            xmax = 284.938 
+            text = "meanyen" 
+        intervals [39]:
+            xmin = 286.288 
+            xmax = 286.9400777 
+            text = "okey" 
+        intervals [40]:
+            xmin = 293.7315741 
+            xmax = 294.8340473 
+            text = "naxon gam etsli" 
+        intervals [41]:
+            xmin = 295.170558 
+            xmax = 295.563 
+            text = "okey" 
+        intervals [42]:
+            xmin = 304.063 
+            xmax = 305.137 
+            text = "mitaxat vemismol" 
+        intervals [43]:
+            xmin = 312.363 
+            xmax = 312.938 
+            text = "okey" 
+        intervals [44]:
+            xmin = 315.313 
+            xmax = 315.688 
+            text = "okey" 
+        intervals [45]:
+            xmin = 320.313 
+            xmax = 322.576458 
+            text = "e li en yesh li gader geder yetedot" 
+        intervals [46]:
+            xmin = 326.813 
+            xmax = 327.038 
+            text = "ken" 
+        intervals [47]:
+            xmin = 331.038 
+            xmax = 331.262 
+            text = "ken" 
+        intervals [48]:
+            xmin = 332.688 
+            xmax = 334.6311345 
+            text = "ben hagader leven haagam hamizraxi" 
+        intervals [49]:
+            xmin = 339.288 
+            xmax = 339.762 
+            text = "mm" 
+        intervals [50]:
+            xmin = 343.788 
+            xmax = 344.113 
+            text = "ken" 
+        intervals [51]:
+            xmin = 357.837 
+            xmax = 359.137 
+            text = "en li axsanyat noar" 
+        intervals [52]:
+            xmin = 360.538 
+            xmax = 361.938 
+            text = "rega az ma efo mit e shtey" 
+        intervals [53]:
+            xmin = 362.4408466 
+            xmax = 364.012 
+            text = "shtey etsbaot mitaxat lamasait haxona" 
+        intervals [54]:
+            xmin = 364.788 
+            xmax = 365.587 
+            text = "axsanyat noar" 
+        intervals [55]:
+            xmin = 369.038 
+            xmax = 369.462 
+            text = "okey" 
+        intervals [56]:
+            xmin = 384.063 
+            xmax = 384.563 
+            text = "mm" 
+        intervals [57]:
+            xmin = 390.2233224 
+            xmax = 390.887 
+            text = "mismol" 
+        intervals [58]:
+            xmin = 394.488 
+            xmax = 396.238 
+            text = "hakav over bena leven hamasait haxona" 
+        intervals [59]:
+            xmin = 398.837 
+            xmax = 399.488 
+            text = "laaxsanya" 
+        intervals [60]:
+            xmin = 406.938 
+            xmax = 410.113 
+            text = "e yesh li hu yoter namux mehaagam hamizraxi tsad yamin shel hadaf" 
+        intervals [61]:
+            xmin = 411.5122599 
+            xmax = 412.4799124 
+            text = "mesuxa yesh lax" 
+        intervals [62]:
+            xmin = 414.0994236 
+            xmax = 414.512 
+            text = "okey" 
+        intervals [63]:
+            xmin = 423.538 
+            xmax = 423.788 
+            text = "ken" 
+        intervals [64]:
+            xmin = 443.962 
+            xmax = 444.512 
+            text = "velea" 
+        intervals [65]:
+            xmin = 448.0783411 
+            xmax = 448.387 
+            text = "lo" 
+        intervals [66]:
+            xmin = 464.762 
+            xmax = 465.238 
+            text = "mm" 
+        intervals [67]:
+            xmin = 476.538 
+            xmax = 476.837 
+            text = "ken" 
+        intervals [68]:
+            xmin = 483.288 
+            xmax = 483.488 
+            text = "ken" 
+        intervals [69]:
+            xmin = 514.063 
+            xmax = 515.638 
+            text = "e okey efo nekudat hasiyum" 
+        intervals [70]:
+            xmin = 517.163 
+            xmax = 517.837 
+            text = "en li nekudat siyum" 
+        intervals [71]:
+            xmin = 523.788 
+            xmax = 526.763 
+            text = "a m a ken blita hasmalit hataxtona ze" 
+        intervals [72]:
+            xmin = 539.862 
+            xmax = 540.837 
+            text = "e smola ve" 
+        intervals [73]:
+            xmin = 541.413 
+            xmax = 541.7880411 
+            text = "mm" 
+        intervals [74]:
+            xmin = 547.737 
+            xmax = 548.163 
+            text = "mm" 
+        intervals [75]:
+            xmin = 549.962 
+            xmax = 550.538 
+            text = "okey yesh" 
